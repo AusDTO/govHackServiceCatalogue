@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_116",
+    "name": "Multicultural Service Officers",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Multicultural Service Officers (MSOs) are specialist staff whose role is to facilitate government programs aimed specifically at customers from culturally and linguistically diverse (CALD) backgrounds. Their primary focus is on enhancing access and participation in products and services delivered by the Department of Human Services. MSO positions are located in selected service centres throughout Australia. MSOs are usually the central point of contact between government and non-government organisations representing customers from CALD backgrounds. They conduct outreach and liaise with ethnic community agencies to inform customers from CALD backgrounds of the department's programs, payments and services.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/multicultural-service-officers",
+    "oldID": 116,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

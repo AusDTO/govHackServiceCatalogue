@@ -1,0 +1,65 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_032",
+    "incedental": true,
+    "name": "Centrelink Compensation Recovery",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Centrelink Compensation Recovery program - debt recovery, recovers outstanding debts owed to the Australian Government. Debts occurs when a person has already received compensation for the injury or illness and also claims benefits from the government. It aims to prevent 'double dipping' in Income Support paid by the Commonwealth in relation to an injury or illness.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/centrelink-compensation-recovery",
+    "oldID": 32,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 2,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 3,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

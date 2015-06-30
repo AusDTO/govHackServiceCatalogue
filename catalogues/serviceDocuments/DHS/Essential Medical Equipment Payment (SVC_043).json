@@ -1,0 +1,43 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_043",
+    "name": "Essential Medical Equipment Payment",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Essential Medical Equipment Payment (EMEP) is an annual non-taxable payment to eligible customers covered by specific Commonwealth concession cards, who will experience additional home energy costs resulting from the use of essential medical equipment to manage their disability or medical condition.",
+    "infoUrl": "",
+    "oldID": 43,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    }
+  ],
+  "subService": []
+}

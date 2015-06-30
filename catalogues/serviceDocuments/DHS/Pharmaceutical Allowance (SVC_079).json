@@ -1,0 +1,44 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "TODO: under ABSTUDY, Austudy, Disability Support Pension,Newstart Allowance,Parenting Payment,Partner Allowance,Sickness Allowance,Special Benefit,Widow Allowance,Youth Allowance",
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_079",
+    "name": "Pharmaceutical Allowance",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Pharmaceutical Allowance (PhA) is paid to assist customers financially with the purchase of prescription medicines through the Pharmaceutical Benefit Scheme (PBS).",
+    "TODO": "TODO: under ABSTUDY, Austudy, Disability Support Pension,Newstart Allowance,Parenting Payment,Partner Allowance,Sickness Allowance,Special Benefit,Widow Allowance,Youth Allowance",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/pharmaceutical-allowance",
+    "oldID": 79,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    }
+  ],
+  "subService": []
+}

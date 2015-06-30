@@ -1,0 +1,110 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_151",
+    "name": "Indigenous Access Programme",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Indigenous Access Program improves the health of Aboriginal and Torres Strait Islander Australians through better access to Medicare services.  Aboriginal or a Torres Strait Islander can get better access to Medicare services to help with their health. Medicare services include the Pharmaceutical Benefits Scheme, the Australian Organ Donor Register, the Australian Childhood Immunisation Register and other services.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/medicare/indigenous-access-program",
+    "oldID": 20,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_HTH",
+      "name": "Your health",
+      "desc": "We provide payments and services that can help when you, or someone you provide care for, use health care services or buy medicines.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/medicare-and-your-health"
+    },
+    {
+      "dist": 1,
+      "id": "THM_IND",
+      "name": "Indigenous Australians",
+      "desc": "We provide payments to help Indigenous Australians finish studies and to support them while they are looking for work.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/indigenous-australians"
+    },
+    {
+      "dist": 2,
+      "id": "MP_MCA",
+      "name": "Medicare",
+      "desc": "Looking after the health of Australians.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/medicare"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 3,
+      "id": "MCA_ONL",
+      "name": "Medicare Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_MCA",
+      "name": "Medicare Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_003",
+    "name": "Disaster Watch",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Provides publicly available news and information about disaster events in Australia via direct feeds from a range of authoritative sources in the states and territories and nationally. The information will be regularly updated.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "https://www.em.gov.au/Resources/Pages/DisasterWatchPhoneApp.aspx",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_AG",
+      "name": "Attorney-General's Department",
+      "desc": "",
+      "infoUrl": "http://www.abs.gov.au/"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_001",
+    "name": "Fuel Consumption Guide Database",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Fuel Consumption Guide Database provides comparative data on the fuel consumption of many vehicles sold in Australia between 1986 and 2003. The database includes passenger cars and four-wheel drives, and light commercial vehicles up to 2.7 tonnes gross vehicle mass.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://www.environment.gov.au/settlements/transport/fuelguide/search.html",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Web"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ENV",
+      "name": "Department of the Environment",
+      "desc": "The Department of the Environment designs and implements the Australian Government’s policies and programmes to protect and conserve the environment, water and heritage and promote climate action. The environmental framework is being delivered under four pillars: Clean air, Clean water, Clean lan, National Heritage",
+      "infoUrl": "http://www.environment.gov.au/"
+    }
+  ],
+  "subService": []
+}

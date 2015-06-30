@@ -1,0 +1,44 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_082",
+    "name": "Rent Assistance",
+    "acronym": "RA",
+    "tagline": null,
+    "TODO:": "Part of  Income support, FTB, DSP",
+    "dtoTags": [],
+    "description": "Rent Assistance (RA) is a supplementary payment added on to the pension, allowance or benefit of income support recipients and low income families in the private rental market, in recognition of the housing costs they face. ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/rent-assistance",
+    "oldID": 82,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    }
+  ],
+  "subService": []
+}

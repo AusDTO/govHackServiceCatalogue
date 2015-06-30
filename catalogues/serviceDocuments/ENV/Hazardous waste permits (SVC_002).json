@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_002",
+    "name": "Hazardous waste permits",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "If you want to export, import or transit hazardous waste, as defined under the Hazardous Waste Act, you must first apply for a permit. The type of hazardous waste permit required will depend on the country of destination (export) and origin (import). Please contact the Hazardous Waste Section who will provide you with specific advice and guidance on your particular circumstances.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://www.environment.gov.au/protection/hazardous-waste/applying-permit",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mail"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ENV",
+      "name": "Department of the Environment",
+      "desc": "The Department of the Environment designs and implements the Australian Government’s policies and programmes to protect and conserve the environment, water and heritage and promote climate action. The environmental framework is being delivered under four pillars: Clean air, Clean water, Clean lan, National Heritage",
+      "infoUrl": "http://www.environment.gov.au/"
+    }
+  ],
+  "subService": []
+}

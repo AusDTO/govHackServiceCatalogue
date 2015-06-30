@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_001",
+    "name": "ABS Stats",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Access 33 key economic indicators including CPI, GDP and unemployment. They're all updated instantly as new data becomes available. ",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/Mobile",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ABS",
+      "name": "Australian Bureau of Statistics",
+      "desc": "The Australian Bureau of Statistics (ABS) is the statistical agency of the Government of Australia. The ABS provides key statistics on a wide range of economic, environmental and social issues, to assist and encourage informed decision making, research and discussion within governments and the community. (source: https://en.wikipedia.org/wiki/Australian_Bureau_of_Statistics)",
+      "infoUrl": "http://www.abs.gov.au/"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_055",
+    "name": "International Social Security Agreements ",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "International Social Security Agreements are international treaties made between Australia and another country, relating to social security. Agreements generally come about through the wish to coordinate the social security systems of each country to close gaps in coverage for people who work in and move between the countries. Both countries seek to share responsibility for a customer's overall retirement income and may pay a part pension based on how long the customer has lived and/or worked in each country.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/international-social-security-agreements",
+    "oldID": 55,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

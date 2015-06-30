@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_001",
+    "name": "Access To Justice",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Provides access to information about legal assistance and related services in your local area such as legal aid, community legal centres, family relationship centres, and dispute resolution services.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://www.accesstojustice.gov.au/",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Web"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_AG",
+      "name": "Attorney-General's Department",
+      "desc": "",
+      "infoUrl": "http://www.abs.gov.au/"
+    }
+  ],
+  "subService": []
+}

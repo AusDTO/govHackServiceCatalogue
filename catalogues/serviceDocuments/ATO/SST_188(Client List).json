@@ -1,0 +1,38 @@
+{
+  "documentType": "ServiceInformation",
+  "service": {
+    "type": "SST",
+    "id": "SST_188",
+    "name": "Client List",
+    "acronym": "",
+    "description": "Number of Commissioner of Taxation-related updates",
+    "colourStyle": "",
+    "lineStyle": "",
+    "shapeStyle": "",
+    "hoverFieldStyle": "",
+    "secondary": false,
+    "lifeEvents": [],
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_028",
+      "name": "Maintain Registration",
+      "desc": "This service allows taxpayers to update their address and other contact details, including tax roles."
+    },
+    {
+      "dist": 2,
+      "id": "CLS_REG",
+      "name": "Registration Services",
+      "desc": "The Registration cluster encompasses all services for the community to register themselves for their tax and super obligations and to maintain these registrations accurately as their situation changes. These services enable businesses to register for taxation purposes, and to maintain their registration - this includes their Australian Business Number (ABN) and other roles that relate to specific taxation obligations (e.g. GST, PAYGW, etc.). The community is expected to proactively register themselves accurately. Accurate registration allows for accurate level of compliance."
+    },
+    {
+      "dist": 3,
+      "id": "ORG_ATO",
+      "name": "Australian Taxation Office",
+      "desc": ""
+    }
+  ],
+  "Subs": []
+}

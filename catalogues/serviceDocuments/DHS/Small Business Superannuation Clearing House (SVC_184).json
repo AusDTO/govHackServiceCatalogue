@@ -1,0 +1,52 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "Check if this one is presented as being from DHS or tax. link on website goes to tax.",
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_184",
+    "name": "Small Business Superannuation Clearing House",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "TODO": "Check if this one is presented as being from DHS or tax. link on website goes to tax.",
+    "description": "The Small Business Superannuation Clearing House (SBSCH) is a free online superannuation payments service that helps small businesses with 19 or fewer employees meet their superannuation guarantee obligations.",
+    "infoUrl": "",
+    "oldID": 53,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_BUS",
+      "name": "Business & employers",
+      "desc": "Information and services for businesses, employers, merchants and other professional clients",
+      "infoUrl": "http://www.humanservices.gov.au/business/"
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    }
+  ],
+  "subService": []
+}

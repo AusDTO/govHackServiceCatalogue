@@ -1,0 +1,38 @@
+{
+  "documentType": "ServiceInformation",
+  "service": {
+    "type": "SST",
+    "id": "SST_139",
+    "name": "Superannuation Guarantee Charge (SGC) Statement",
+    "acronym": "",
+    "description": "This service enables individual, non-individual entities and their representatives to meet their superannuation obligations by lodging Superannuation Guarantee Charge (SGC) Statement",
+    "colourStyle": "",
+    "lineStyle": "",
+    "shapeStyle": "",
+    "hoverFieldStyle": "",
+    "secondary": false,
+    "lifeEvents": [],
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_017",
+      "name": "Lodge Superannuation Form",
+      "desc": "This service enables individual, non-individual entities and their representatives to superannuation related forms such as"
+    },
+    {
+      "dist": 2,
+      "id": "CLS_LDG",
+      "name": "Lodgment Service",
+      "desc": "The Lodgment cluster encompasses all services which require the community to lodge information (usually via a form) to the Tax Office to report what their current situation is (usually their income & expenses) to accurately identify what their tax and superannuation obligations are or if they are due for a refund or payment. Timeliness and accuracy of lodgments from the community is crucial in a self assessment system, which is why this cluster also includes lodgment support services to assist the community that need help to meet their lodgment obligation through deferrals and suspensions."
+    },
+    {
+      "dist": 3,
+      "id": "ORG_ATO",
+      "name": "Australian Taxation Office",
+      "desc": ""
+    }
+  ],
+  "Subs": []
+}

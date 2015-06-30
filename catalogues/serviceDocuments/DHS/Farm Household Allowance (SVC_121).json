@@ -1,0 +1,88 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_121",
+    "name": "Farm Household Allowance",
+    "acronym": "FHA",
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Farm Household Allowance (FHA) is an income support payment available to eligible farmers and their partners who are in financial hardship. It can be used to address all causes of hardship and is not dependent on climatic triggers or associated with drought declarations. FHA is a taxable payment that is paid at the Newstart Allowance (NSA) or Youth Allowance (YA) rate. It can be paid for a cumulative period of three years. FHA customers have access to the same benefits and services as other income support recipients and may be eligible for add-ons, depending on their circumstances. ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/farm-household-allowance",
+    "oldID": 121,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_EMG",
+      "name": "Help in an emergency",
+      "desc": null,
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/help-in-an-emergency"
+    },
+    {
+      "dist": 1,
+      "id": "THM_RUR",
+      "name": "Rural and remote Australians",
+      "desc": "A range of payments and services is available to support people living in rural and remote areas.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/rural-and-remote-australians"
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

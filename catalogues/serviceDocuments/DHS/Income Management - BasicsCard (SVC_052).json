@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_052",
+    "name": "Income Management - BasicsCard",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Income Management / BasicsCard  works by setting aside a percentage of a customer's fortnightly entitlement to certain payments. A percentage of a customer's welfare payment is directed to meeting priority needs such as food, clothing and accommodation. The remaining percentage of a customer's payments will be paid to them in the usual way to be used at their discretion. The BasicsCard is a reusable card which allows customers to use their income managed funds to purchase goods and services at approved BasicsCard merchants through the Electronic Funds Transfer at Point of Sale (EFTPOS) network.",
+    "infoUrl": "",
+    "oldID": 52,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_004",
+    "name": "Emergency Plus",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Australia’s Triple Zero Awareness Working Group has developed a smartphone app for iOS and Android devices to: provide the caller with information about when to call Triple Zero, provide the caller with information about who to call in various non-emergency situations, assist the caller to dial the relevant number, display the GPS coordinates of the phone's location that the caller can read out to the emergency operator.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://www.triplezero.gov.au/Pages/EmergencySmartphoneApp.aspx",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_AG",
+      "name": "Attorney-General's Department",
+      "desc": "",
+      "infoUrl": "http://www.abs.gov.au/"
+    }
+  ],
+  "subService": []
+}

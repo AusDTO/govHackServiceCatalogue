@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_129",
+    "name": "JobSearch Facilities",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "JobSearch Facilities, include printers and self-service computers located in the public areas of DHS. These facilities are free of charge and can help customers identify employment opportunities as well as assist in making contact with Employment Service Providers. These providers may be able to help you in their search for work.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/jobsearch-facilities",
+    "oldID": 129,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

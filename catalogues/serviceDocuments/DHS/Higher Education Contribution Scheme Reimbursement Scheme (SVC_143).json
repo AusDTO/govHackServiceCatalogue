@@ -1,0 +1,91 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_143",
+    "name": "Higher Education Contribution Scheme Reimbursement Scheme",
+    "acronym": null,
+    "topics": [
+      "Education and training"
+    ],
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The HECS Reimbursement Scheme encourages medical graduates to pursue a career in rural medicine and increase the number of doctors in rural and regional areas. Under the Scheme, eligible medical graduates who complete their medical degree in 2000 or later, have one fifth of their HECS debt reimbursed for each year of training undertaken or service provided in Rural, Remote and Metropolitan Area (RRMA) 3-7 locations.",
+    "infoUrl": "http://www.humanservices.gov.au/health-professionals/services/hecs-reimbursement-scheme/",
+    "oldID": 12,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_HPR",
+      "name": "Health professionals",
+      "desc": "Helping health professionals, practice staff and pharmacy assistants do business with us.",
+      "infoUrl": "http://www.humanservices.gov.au/health-professionals/"
+    },
+    {
+      "dist": 2,
+      "id": "MP_MCA",
+      "name": "Medicare",
+      "desc": "Looking after the health of Australians.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/medicare"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "MCA_ONL",
+      "name": "Medicare Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_MCA",
+      "name": "Medicare Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,83 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_075",
+    "name": "Pension Loans Scheme",
+    "acronym": "PLS",
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Pension Loans Scheme (PLS) allows customers of age pension age (or their partner) who receive a part pension or who cannot get a pension because either their income or assets are over the limits (but not both) access to capital tied up in their real estate assets. The PLS is a voluntary arrangement which provides support in the form of a top up of their rate of fortnightly payment via a loan, secured against Australian real estate owned by the customer.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/pension-loans-scheme",
+    "tags:": [
+      "housing"
+    ],
+    "oldID": 75,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_OLD",
+      "name": "Older Australians",
+      "desc": "As an older Australian, you may be planning for retirement or have decided to work past age pension age. We have payments and services to help with your health care and living costs.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/older-australians"
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

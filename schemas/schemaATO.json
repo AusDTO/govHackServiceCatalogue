@@ -1,0 +1,122 @@
+ "organisationModel": {
+    "serviceOrganisation": {
+      "id": "ORG",
+      "name": "Organisation",
+      "colourStyle": "green",
+      "lineStyle": null,
+      "shapeStyle": "octagon",
+      "hoverFieldStyle": null
+    },
+    "serviceDimensionTypes": [
+      {
+        "id": "CLS",
+        "name": "Service Cluster",
+        "acronym": "",
+        "tagline": "",
+        "description": "",
+        "colourStyle": "green",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "SVC",
+        "name": "Service",
+        "acronym": "",
+        "tagline": "",
+        "description": "Theme",
+        "colourStyle": "red",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "STT",
+        "name": "Sub Service",
+        "acronym": "",
+        "tagline": "",
+        "description": "",
+        "userField": {
+          "fieldName": "oldID",
+          "fieldType": "string",
+          "required": false,
+          "repeats": "1"
+        },
+        "colourStyle": "blue",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "ITT",
+        "name": "Interaction",
+        "acronym": "",
+        "tagline": "",
+        "description": "",
+        "colourStyle": "lightblue",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "PRE",
+        "name": "Preparer",
+        "acronym": "CAT",
+        "tagline": "",
+        "description": "",
+        "colourStyle": "darkblue",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "SEG",
+        "name": "Segment",
+        "acronym": "",
+        "tagline": "",
+        "description": "",
+        "colourStyle": "darkgreen",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "ENT",
+        "name": "Entity",
+        "acronym": "",
+        "tagline": "",
+        "description": "",
+        "colourStyle": "pink",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "ENS",
+        "name": "Sub Entity",
+        "acronym": "",
+        "tagline": "",
+        "description": "",
+        "colourStyle": "pink",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      }
+    ],
+    "serviceComponentTypes": [
+      {
+        "id": "INT",
+        "name": "Interactions",
+        "acronym": "INT",
+        "tagline": "",
+        "description": "",
+        "colourStyle": "purple",
+        "lineStyle": "",
+        "shapeStyle": "rectangle",
+        "hoverFieldStyle": ""
+      }
+    ],
+    "channelTypes": [],
+    "outletTypes": [],
+  },
+ 

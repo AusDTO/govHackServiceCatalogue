@@ -1,0 +1,44 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "TODO: Is paid under...Age Pension, Bereavement Allowance, Carer Payment, Disability Support Pension - except if you are aged under 21 and have no children    Widow B Pension or Wife Pension",
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_076",
+    "name": "Pension Supplement",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Pension Supplement (PS) replaced Utilities Allowance (UA), Telephone Allowance (TAL) at the higher rate, Pharmaceutical Allowance (PhA) and the GST Supplement for some customers from 20 September 2009.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/pension-supplement",
+    "TODO": "TODO: Is paid under...Age Pension, Bereavement Allowance, Carer Payment, Disability Support Pension - except if you are aged under 21 and have no children    Widow B Pension or Wife Pension",
+    "oldID": 76,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    }
+  ],
+  "subService": []
+}

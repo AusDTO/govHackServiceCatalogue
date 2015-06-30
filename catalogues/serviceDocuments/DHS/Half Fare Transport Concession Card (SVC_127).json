@@ -1,0 +1,43 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_127",
+    "name": "Half Fare Transport Concession Card",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Half Fare Transport Concession Cards are available to NSW residents receiving unemployment or other eligible Commonwealth benefits at the maximum rate and looking for a job entitling them to a half-fare single and return travel on some buses, trains, light rail and ferry services. ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/subjects/concession-and-health-care-cards",
+    "oldID": 127,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    }
+  ],
+  "subService": []
+}

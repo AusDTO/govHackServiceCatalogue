@@ -1,0 +1,120 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_198",
+    "name": "Assistance for Isolated Children Scheme",
+    "acronym": "AIC",
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Help for students who cannot go to an appropriate state school because of geographical isolation, disability or special health needs.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/assistance-for-isolated-children",
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_RUR",
+      "name": "Rural and remote Australians",
+      "desc": "A range of payments and services is available to support people living in rural and remote areas.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/rural-and-remote-australians"
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": [
+    {
+      "id": "SVC_016",
+      "name": "Assistance for Isolated Children Scheme Additional Boarding Allowance",
+      "desc": "AIC Scheme Additional Boarding Allowance (ABA) is a means-tested supplementary payment to provide additional support for lower-income families whose geographically isolated student boards away from their principal family home. ABA is payable only if the actual boarding charges are greater than the minimum threshold of the rate of Basic Boarding Allowance less $250 for incidentals.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/assistance-for-isolated-children",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_017",
+      "name": "Assistance for Isolated Children Scheme Boarding Allowance",
+      "desc": "AIC Sheme Boarding Allowance (BA) is intended to contribute towards the costs incurred by families in boarding a student away from home to have daily access to appropriate schooling and who meets an isolation condition or special need.",
+      "infoUrl": "",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_018",
+      "name": "Assistance for Isolated Children Scheme Distance Education Allowance",
+      "desc": "AIC Scheme Distance Education Allowance (DED) contributes towards incidental costs incurred by geographically isolated families whose student children are undertaking their education by distance education methods. This payment is not intended to meet the ongoing cost of provision of education (e.g. costs associated with teaching, tuition and supervision).",
+      "infoUrl": "",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_019",
+      "name": "Assistance for Isolated Children Scheme Pensioner Education Supplement",
+      "desc": "AIC Scheme Pensioner Education Supplement (PES) is intended to contribute towards educational costs incurred by parents of geographically isolated students undertaking primary or ungraded levels of study. PES is paid for students receiving, or who qualify for, a Disability Support Pension or a Parenting Payment (Single) and qualify for either Boarding Allowance, Second Home Allowance or Distance Education allowances (as applicable), except for the requirement not to be receiving a pension.",
+      "infoUrl": "",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_020",
+      "name": "Assistance for Isolated Children Scheme Second Home Allowance",
+      "desc": "AIC Scheme Second Home Allowance (SHA) contributes towards the costs incurred by geographically isolated families in maintaining a second family home for a student to have daily access to appropriate schooling.",
+      "infoUrl": "",
+      "primaryAudience": null
+    }
+  ]
+}

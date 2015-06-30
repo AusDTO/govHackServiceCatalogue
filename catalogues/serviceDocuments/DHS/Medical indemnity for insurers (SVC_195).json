@@ -1,0 +1,144 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Look at the midwife indemnity stuff http://www.humanservices.gov.au/health-professionals/services/midwife-professional-indemnity-scheme/"
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_195",
+    "name": "Medical indemnity for insurers",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "To strengthen the availability of medical services in Australia, in 2002 the government introduced medical indemnity legislation. The legislation provides a package of financial assistance which helps keep medical indemnity insurance premiums at an affordable level. It does this by providing financial support to medical defence organisations (MDOs) and medical indemnity insurers (MIIs).",
+    "infoUrl": "http://www.humanservices.gov.au/health-professionals/services/medical-indemnity-for-insurers/",
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_HPR",
+      "name": "Health professionals",
+      "desc": "Helping health professionals, practice staff and pharmacy assistants do business with us.",
+      "infoUrl": "http://www.humanservices.gov.au/health-professionals/"
+    },
+    {
+      "dist": 2,
+      "id": "MP_MCA",
+      "name": "Medicare",
+      "desc": "Looking after the health of Australians.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/medicare"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "MCA_ONL",
+      "name": "Medicare Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_MCA",
+      "name": "Medicare Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": [
+    {
+      "id": "SVC_144",
+      "name": "Indemnity - Exceptional Claims Indemnity Scheme",
+      "desc": "The Exceptional Claims Indemnity Scheme (ECS) assists medical defence organisations and medical indemnity insurers where settlement amounts of claims exceed a practitioner's indemnity insurance contract limit.",
+      "infoUrl": "",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_145",
+      "name": "Indemnity - High Cost Claims Indemnity Scheme",
+      "desc": "The High Cost Claims Indemnity Scheme (HCCS) enables the government to fund 50% of the cost of payouts by medical defence organisations and medical indemnity insurers that are greater than the applicable threshold amount, up to the limit of a practitioner�s indemnity cover.",
+      "infoUrl": "",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_146",
+      "name": "Indemnity - Incurred-But-Not-Reported Indemnity Scheme",
+      "desc": "The Incurred-But-Not-Reported Indemnity Claims Scheme (IBNR) is designed to fund the IBNR liabilities of medical defence organisations where they do not have adequate reserves to cover their liabilities. Under the Act, medical defence organisations that existed on 30 June 2002 may participate in the IBNR scheme unless the Minister determines otherwise. To date, the Minister has determined that United Medical Protection Limited is the only medical defence organisation to actively participate in the IBNR indemnity scheme. ",
+      "infoUrl": "",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_147",
+      "name": "Indemnity - Medical Indemnity Administration Payments",
+      "desc": "Medical Indemnity Administration Payments are paid to midwife professional indemnity insurers to compensate for the work they undertake to administer the scheme.",
+      "infoUrl": "",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_148",
+      "name": "Indemnity - Premium Support Scheme",
+      "desc": "The Premium Support Scheme (PSS) is an Australian Government scheme that helps eligible doctors with the costs of their medical indemnity insurance (MII). Eligible doctors see the benefit of the PSS through reductions in the level of premiums charged to them by their MII. The Australian Government makes payments to MIIs for the PSS.",
+      "infoUrl": "",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_149",
+      "name": "Indemnity - Run-Off Cover Indemnity Scheme",
+      "desc": "The Run-Off Cover Indemnity Scheme (ROCS) assists medical defence organisations and medical indemnity insurers to cover claims made against medical practitioners who have retired, have a permanent disability, are on maternity leave, or who have permanently left private medical practice in Australia.",
+      "infoUrl": "",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_150",
+      "name": "Indemnity - Run-Off Cover Scheme Support Payment",
+      "desc": "The Run-Off Cover Indemnity Scheme (ROCS) is funded on an ongoing basis through a charge on insurers called the Run-Off Cover Scheme Support Payment which is levied as a percentage of insurers� medical indemnity insurance income and is shown on doctors� premium notices. The ROCS therefore ensures that eligible doctors receive medical indemnity cover that is secure, does not require further payment and is based on the cover they had while they were working.",
+      "infoUrl": "",
+      "primaryAudience": null
+    }
+  ]
+}

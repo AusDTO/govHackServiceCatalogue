@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_117",
+    "name": "Refugee Services",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Refugee Services provide assistance to those who have recently arrived as a refugee, humanitarian entrant or have been granted a Permanent Protection Visa to live in Australia.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/refugee-services",
+    "oldID": 117,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

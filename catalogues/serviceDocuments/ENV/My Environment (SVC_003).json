@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_003",
+    "name": "My Environment",
+    "acronym": null,
+    "tagline": "MyEnvironment lists environmental assets and heritage sites in your suburb or surrounds.",
+    "dtoTags": [],
+    "description": "MyEnvironment is a free application that lists environmental assets and heritage sites in your suburb or surrounds. MyEnvironment relies on datasets held by the Department of Sustainability, Environment, Water, Population and Communities. It displays descriptions, maps and photographs of: heritage sites, world heritage, Commonwealth heritage and national heritage, historic shipwrecks (State, Territory and Commonwealth protected shipwrecks), protected areas - national parks and reserves both on land and at sea, threatened ecological communities - native habitats that are listed as critically endangered, endangered or vulnerable under the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act), protected species - plants and animals that are listed as critically endangered, endangered, vulnerable or conservation dependent under the EPBC Act, invasive species - animal pests, weeds - invasive plants, wetlands - including Ramsar wetlands. MyEnvironment only lists Australian plants and animals that are protected under the EPBC Act. So results for Tamworth, NSW will include the EPBC Act listed spot tailed quoll but not the more common eastern grey kangaroo.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://secure.environment.gov.au/about/media/connect/myenvironment/index.html",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Web"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ENV",
+      "name": "Department of the Environment",
+      "desc": "The Department of the Environment designs and implements the Australian Government’s policies and programmes to protect and conserve the environment, water and heritage and promote climate action. The environmental framework is being delivered under four pillars: Clean air, Clean water, Clean lan, National Heritage",
+      "infoUrl": "http://www.environment.gov.au/"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,96 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_145",
+    "name": "Indemnity - High Cost Claims Indemnity Scheme",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The High Cost Claims Indemnity Scheme (HCCS) enables the government to fund 50% of the cost of payouts by medical defence organisations and medical indemnity insurers that are greater than the applicable threshold amount, up to the limit of a practitioner�s indemnity cover.",
+    "infoUrl": "",
+    "oldID": 14,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": true,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_195",
+      "name": "Medical indemnity for insurers",
+      "desc": "To strengthen the availability of medical services in Australia, in 2002 the government introduced medical indemnity legislation. The legislation provides a package of financial assistance which helps keep medical indemnity insurance premiums at an affordable level. It does this by providing financial support to medical defence organisations (MDOs) and medical indemnity insurers (MIIs).",
+      "infoUrl": "http://www.humanservices.gov.au/health-professionals/services/medical-indemnity-for-insurers/"
+    },
+    {
+      "dist": 2,
+      "id": "THM_HPR",
+      "name": "Health professionals",
+      "desc": "Helping health professionals, practice staff and pharmacy assistants do business with us.",
+      "infoUrl": "http://www.humanservices.gov.au/health-professionals/"
+    },
+    {
+      "dist": 3,
+      "id": "MP_MCA",
+      "name": "Medicare",
+      "desc": "Looking after the health of Australians.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/medicare"
+    },
+    {
+      "dist": 3,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 4,
+      "id": "MCA_ONL",
+      "name": "Medicare Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "CHA_MCA",
+      "name": "Medicare Offices",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 5,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

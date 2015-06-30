@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_190",
+    "name": "Child Support Registration",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Child Support Registration: Child Support agreements are legally binding contracts that allow Child Support customers to mutually decide on the amount of child support payable. An agreement can include specific clauses, inflation factors and instructions to address periods of unemployment. Customers can apply for their agreement to be administered with, or in place of, a child support assessment.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/enablers/child-support/child-support-assessment/applying-for-a-child-support-assessment",
+    "oldID": 1,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

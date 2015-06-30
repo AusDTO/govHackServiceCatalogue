@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_002",
+    "name": "Trove",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Trove helps you find and use resources relating to Australia. It's more than a search engine. Trove brings together content from libraries, museums, archives and other research organisations and gives you tools to explore and build. Trove is many things: a community, a set of services, an aggregation of metadata, and a growing repository of fulltext digital resources. Best of all, Trove is yours, created and maintained by the National Library of Australia. For more information visit the Getting to know us section of the Trove Help Centre.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://trove.nla.gov.au/",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Web"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_NLA",
+      "name": "National Library of Australia",
+      "desc": "The National Library of Australia is one of several agencies within the Ministry for the Arts, which is part of the Attorney-General's Department, with responsibility for maintaining and disseminating Australia’s cultural heritage. The Library’s role, as defined by the National Library Act 1960, is to ensure that documentary resources of national significance relating to Australia and the Australian people, as well as significant non-Australian library materials, are collected, preserved and made accessible either through the Library or through collaborative arrangements with other libraries and information providers. By offering a strong national focus in all that we do and cooperating with others who share our goals, we support learning and creative and intellectual endeavour and contribute to the vitality of Australian culture and heritage.",
+      "infoUrl": "http://www.nla.gov.au/"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,52 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "check theme",
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_111",
+    "name": "Centrepay",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Centrepay is a free and voluntary bill paying service available for customers to pay their bills directly from their Centrelink payments. Customers receiving an eligible Centrelink administered payment can nominate to have amounts deducted from their payment for bills such as private rent, gas, electricity, water, council rates, ambulance services, telephone, education fees, funeral benefit schemes, legal fees, whitegoods and medical expenses. Deductions are transferred directly to a Centrepay Third Party Organisation (TPO) for part or full payment for services.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/centrepay",
+    "TODO": "check theme",
+    "oldID": 111,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_BUS",
+      "name": "Business & employers",
+      "desc": "Information and services for businesses, employers, merchants and other professional clients",
+      "infoUrl": "http://www.humanservices.gov.au/business/"
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,88 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_056",
+    "name": "Job Commitment Bonus",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Job Commitment Bonus (JCB)  provides a payment of $2500 to job seekers aged 18 to 30 who have been unemployed for 12 months or more and are receiving Newstart or Youth Allowance (Jobseeker) if they get a job and remain employed (and off Newstart or Youth Allowance (Jobseeker) for a continuous period of 12 months. Job seekers will receive a further $4,000 if they remain in a job and do not receive Newstart or Youth Allowance (Jobseeker) for a continuous period of 24 months.",
+    "infoUrl": "",
+    "categories": [],
+    "lifeEvents": [
+      "I am employing someone for the first time",
+      "I have lost my job",
+      "I am leaving school and wondering what next",
+      "Closing a business",
+      "Starting a business"
+    ],
+    "oldID": 56,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_JSR",
+      "name": "Job seekers",
+      "desc": "We Fer income support if you are looking for work, completing approved studies or have a disability and are looking for work.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/job-seekers"
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

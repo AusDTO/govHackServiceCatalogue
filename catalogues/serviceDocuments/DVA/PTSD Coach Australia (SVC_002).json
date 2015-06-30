@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_002",
+    "name": "PTSD Coach Australia",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Helps you understand and manage the symptoms of post-traumatic stress disorder, or PTSD. It is not designed as a stand-alone treatment ideally, it is a tool to use as part of your treatment.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://at-ease.dva.gov.au/veterans/resources/mobile-apps/ptsd-coach/",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_DVA",
+      "name": "Department of Veterans' Affairs",
+      "desc": "The Department of Veterans’ Affairs (DVA) is an Australian Government agency. We provide support and provide information for: veterans and their dependants, Australian Defence Force personnel, war widows/widowers, Australian participants in British Nuclear Tests in Australia, members of the Australian Federal Police, and students, teachers and historians.",
+      "infoUrl": "http://www.dva.gov.au/"
+    }
+  ],
+  "subService": []
+}

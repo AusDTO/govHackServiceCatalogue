@@ -1,0 +1,27 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_123",
+    "name": "Farm Financial Assessment Supplement",
+    "acronym": null,
+    "incidental": true,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Farm Financial Assessment Supplement is to assist in covering the cost of a prescribed adviser completing a comprehensive assessment of the financial position of a farm enterprise and the person for whom the assessment is conducted. It has multiple parts, some of which are completed by the person and some by the person's prescribed adviser.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/enablers/centrelink/farm-household-allowance/farm-financial-assessment",
+    "oldID": 123,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

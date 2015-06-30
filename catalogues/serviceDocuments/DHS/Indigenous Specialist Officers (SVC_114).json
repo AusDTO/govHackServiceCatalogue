@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_114",
+    "name": "Indigenous Specialist Officers",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Indigenous Specialist Officers (ISOs) provide support to Customer Service Officers (CSOs) and local communities to improve customer service for Indigenous customers. Generally located at service centres, Indigenous Specialist Officer (ISO) duties involve: connecting Indigenous customers and community groups to the Department of Human Services (DHS) payments, services and programs and assisting them to access mainstream channels where appropriate; promoting DHS services to the local Aboriginal and Torres Strait Islander communities, including attending community forums to educate, build awareness and increase their understanding of entitlements and obligations; providing support and formal and/or informal training to staff to improve their cultural capability and referral knowledge to improve service delivery to Aboriginal and Torres Strait Islander Australians.",
+    "infoUrl": "",
+    "oldID": 114,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

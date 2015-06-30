@@ -1,0 +1,52 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "Check business theme link",
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_108",
+    "name": "Centrelink Confirmation eServices",
+    "acronym": null,
+    "tagline": null,
+    "TODO": "Check business theme link",
+    "dtoTags": [],
+    "description": "Centrelink Confirmation eServices (CCeS) Contracts is an electronic (online) system designed to provide an approved organisation with verification and confirmation of a customer's details and concession entitlement. The amount of information that can be provided to an approved concession provider is negotiated with the Department of Human Services.",
+    "infoUrl": "",
+    "oldID": 108,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_BUS",
+      "name": "Business & employers",
+      "desc": "Information and services for businesses, employers, merchants and other professional clients",
+      "infoUrl": "http://www.humanservices.gov.au/business/"
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    }
+  ],
+  "subService": []
+}

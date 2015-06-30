@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_007",
+    "name": "ASIC Connect Online",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "ASIC Connect is our new online service for interacting with ASIC's registers. Services available on ASIC Connect include: ASIC Connect search - for searching company, business names and self-managed superannuation fund (SMSF) auditor registers; ASIC Connect business names - for registering a business name, renewing the registration of a business name, cancelling or cancelling and transferring a business name, and updating business name details; ASIC Connect self-managed superannuation fund (SMSF) auditor - for registering as an SMSF auditor and updating SMSF auditor details.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "https://connectonline.asic.gov.au/",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Web"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ASIC",
+      "name": "Australian Securities and Investments Commission",
+      "desc": "ASIC is Australia’s corporate, markets and financial services regulator. We contribute to Australia’s economic reputation and wellbeing by ensuring that Australia’s financial markets are fair and transparent, supported by confident and informed investors and consumers.",
+      "infoUrl": "http://www.asic.gov.au/"
+    }
+  ],
+  "subService": []
+}

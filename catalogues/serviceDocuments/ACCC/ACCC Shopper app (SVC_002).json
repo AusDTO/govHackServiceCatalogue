@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_002",
+    "name": "ACCC Shopper app",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Advice on your refund, warranty and lay-by rights while shopping. Tells you what to look for if you want to buy food that comes from a particular country.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://www.accc.gov.au/about-us/tools-resources/accc-shopper-app",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ACCC",
+      "name": "Australian Competition and Consumer Commission",
+      "desc": "",
+      "infoUrl": "http://www.accc.gov.au/"
+    }
+  ],
+  "subService": []
+}

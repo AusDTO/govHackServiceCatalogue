@@ -1,0 +1,27 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "under the income managment payments"
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_095",
+    "name": "Voluntary Incentive Payment",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "TODO": "under the income managment payments",
+    "description": "The Voluntary Income Management Incentive Payment is a non-taxable payment, which is paid automatically for every 26 weeks of continuous Voluntary Income Management.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/enablers/centrelink/income-management/voluntary",
+    "oldID": 95,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

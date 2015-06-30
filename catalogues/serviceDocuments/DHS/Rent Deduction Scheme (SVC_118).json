@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_118",
+    "name": "Rent Deduction Scheme",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Rent Deduction Scheme (RDS) provides for DHS Customers living in government housing to have their rent, loan repayments, arrears and other housing payments deducted from their Centrelink payment each fortnight and sent directly to the relevant State or Territory Housing Authority. ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/rent-deduction-scheme",
+    "oldID": 118,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

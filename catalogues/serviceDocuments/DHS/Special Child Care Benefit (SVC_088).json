@@ -1,0 +1,27 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "part off CCB"
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_088",
+    "name": "Special Child Care Benefit",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Special Child Care Benefit (SCCB) can pay up to the full cost of approved child care fees where the child is at risk of serious abuse or neglect or the family is experiencing a hardship that substantially reduces the capacity to pay child care fees. SCCB is additional assistance above the normal CCB available to families using child care provided by an Approved Service Provider (ASP). ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/child-care-benefit",
+    "TODO": "part off CCB",
+    "oldID": 88,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

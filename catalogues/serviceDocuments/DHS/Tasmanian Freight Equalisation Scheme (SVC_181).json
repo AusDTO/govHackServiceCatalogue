@@ -1,0 +1,51 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_181",
+    "name": "Tasmanian Freight Equalisation Scheme",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Tasmanian Freight Equalisation Scheme (TFES) provides assistance to shippers of eligible goods that are transported by sea between Tasmania and the Australian mainland. Claims for TFES assistance are made directly to the Department of Human Services by the shipper, after payment of the freight costs.",
+    "infoUrl": "http://www.humanservices.gov.au/business/services/centrelink/tasmanian-freight-equalisation-scheme/",
+    "oldID": 50,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_BUS",
+      "name": "Business & employers",
+      "desc": "Information and services for businesses, employers, merchants and other professional clients",
+      "infoUrl": "http://www.humanservices.gov.au/business/"
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    }
+  ],
+  "subService": []
+}

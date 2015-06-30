@@ -1,0 +1,153 @@
+{
+  "organisationModel": {
+    "serviceOrganisation": {
+      "id": "ORG",
+      "name": "Organisation",
+      "colourStyle": "green",
+      "lineStyle": null,
+      "shapeStyle": "octagon",
+      "hoverFieldStyle": null
+    },
+    "serviceDimensionTypes": [
+      {
+        "id": "MP",
+        "name": "Master Program",
+        "acronym": "",
+        "tagline": "",
+        "description": "",
+        "userField": {
+          "fieldName": "oldID",
+          "fieldType": "string",
+          "required": false,
+          "repeats": "1"
+        },
+        "colourStyle": "green",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "THM",
+        "name": "Theme",
+        "acronym": "THM",
+        "tagline": "",
+        "description": "Theme",
+        "userField": {
+          "fieldName": "oldID",
+          "fieldType": "string",
+          "required": false,
+          "repeats": "1"
+        },
+        "colourStyle": "red",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "PRG",
+        "name": "Programme",
+        "acronym": "PRG",
+        "tagline": "",
+        "description": "",
+        "userField": {
+          "fieldName": "oldID",
+          "fieldType": "string",
+          "required": false,
+          "repeats": "1"
+        },
+        "colourStyle": "blue",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "SVC",
+        "name": "Service",
+        "acronym": "SVC",
+        "tagline": "",
+        "description": "",
+        "userField": {
+          "fieldName": "oldID",
+          "fieldType": "string",
+          "required": false,
+          "repeats": "1"
+        },
+        "colourStyle": "lightblue",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "CAT",
+        "name": "Category",
+        "acronym": "CAT",
+        "tagline": "",
+        "description": "",
+        "userField": {
+          "fieldName": "oldID",
+          "fieldType": "string",
+          "required": false,
+          "repeats": "1"
+        },
+        "colourStyle": "darkblue",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "AUD",
+        "name": "Audience",
+        "acronym": "",
+        "tagline": "",
+        "description": "",
+        "userField": {
+          "fieldName": "oldID",
+          "fieldType": "string",
+          "required": false,
+          "repeats": "1"
+        },
+        "colourStyle": "darkgreen",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      },
+      {
+        "id": "POL",
+        "name": "Policy Department",
+        "acronym": "POL",
+        "tagline": "",
+        "description": "",
+        "userField": {
+          "fieldName": "oldID",
+          "fieldType": "string",
+          "required": false,
+          "repeats": "1"
+        },
+        "colourStyle": "pink",
+        "lineStyle": "",
+        "shapeStyle": "ellipse",
+        "hoverFieldStyle": ""
+      }
+    ],
+    "serviceComponentTypes": [
+      {
+        "id": "CMP",
+        "name": "Service Component",
+        "acronym": "CMP",
+        "tagline": "",
+        "description": "",
+        "userField": {
+          "fieldName": "oldID",
+          "fieldType": "string",
+          "required": false,
+          "repeats": "1"
+        },
+        "colourStyle": "purple",
+        "lineStyle": "",
+        "shapeStyle": "rectangle",
+        "hoverFieldStyle": ""
+      }
+    ],
+    "channelTypes": []
+  }
+}

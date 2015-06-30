@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_015",
+    "name": "Aged Care Means Test Assessments",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Aged Care Means Test Assessments, for both social security customers and self funded retirees, assess a care recipient's combined income and assets to determine eligibility for assistance from the Government with the cost of care.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/aged-care-means-test-assessments",
+    "oldID": 15,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

@@ -1,0 +1,52 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    " Disability Support Pension Partner Allowance or Widow Allowance"
+  ],
+  "service": {
+    "type": "SVC",
+    "current": "false",
+    "id": "SVC_071",
+    "name": "Partner Allowance",
+    "acronym": "PA",
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Partner Allowance (PA) is an income support payment for older people who  are partners of income support recipients and  face barriers to finding employment because of their lack of recent workforce experience. PA was introduced so that each partner of a couple receives a separate payment, rather than one of the couple receiving a combined payment. This ensures that each customer is treated as an individual rather than being dependent upon another person. There are no new grants for PA from the 20 September 2003. ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/partner-allowance",
+    "oldID": 71,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    }
+  ],
+  "subService": [
+    {
+      "id": "SVC_094",
+      "name": "Utilities Allowance",
+      "desc": "Utilities Allowance (UA) is paid to certain customers to assist in meeting the cost of regular bills such as gas, electricity and water.",
+      "infoUrl": ""
+    }
+  ]
+}

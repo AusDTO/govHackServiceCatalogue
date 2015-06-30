@@ -1,0 +1,38 @@
+{
+  "documentType": "ServiceInformation",
+  "service": {
+    "type": "SST",
+    "id": "SST_146",
+    "name": "Lodge Income Tax Return Related Schedules",
+    "acronym": "",
+    "description": "For all entities, this service enables submission of information required to comply with their income tax obligations via income tax return related schedules.",
+    "colourStyle": "",
+    "lineStyle": "",
+    "shapeStyle": "",
+    "hoverFieldStyle": "",
+    "secondary": false,
+    "lifeEvents": [],
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_018",
+      "name": "Lodge Tax Return",
+      "desc": "For all entities, this service enables submission of information required to comply with their income tax obligations via income tax return form and related forms/schedules.For businesses, this service enables submission of information required to comply with various taxation obligations relating to their operations via fringe benefit tax return."
+    },
+    {
+      "dist": 2,
+      "id": "CLS_LDG",
+      "name": "Lodgment Service",
+      "desc": "The Lodgment cluster encompasses all services which require the community to lodge information (usually via a form) to the Tax Office to report what their current situation is (usually their income & expenses) to accurately identify what their tax and superannuation obligations are or if they are due for a refund or payment. Timeliness and accuracy of lodgments from the community is crucial in a self assessment system, which is why this cluster also includes lodgment support services to assist the community that need help to meet their lodgment obligation through deferrals and suspensions."
+    },
+    {
+      "dist": 3,
+      "id": "ORG_ATO",
+      "name": "Australian Taxation Office",
+      "desc": ""
+    }
+  ],
+  "Subs": []
+}

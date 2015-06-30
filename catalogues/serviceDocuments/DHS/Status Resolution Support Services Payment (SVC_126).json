@@ -1,0 +1,80 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_126",
+    "name": "Status Resolution Support Services Payment",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Status Resolution Support Services (SRSS) payment is a  support payment for eligible recipients who are awaiting resolution of their immigration status. The payment comprises a Living Allowance, Rental Assistance Allowance and Dependent Child Allowance. The SRSS payment is paid under the Financial Management and Accountability Act 1997 rather than social security law. ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/status-resolution-support-services-payment",
+    "oldID": 126,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_MIG",
+      "name": "Migrants, refugees & visitors",
+      "desc": "We provide a range of payments and services if you have an eligible visa and you are Living in Australia, including support to help you with the cost of raising children and looking after dependants.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/migrants-refugees-and-visitors"
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,38 @@
+{
+  "documentType": "ServiceInformation",
+  "service": {
+    "type": "SST",
+    "id": "SST_108",
+    "name": "Tax Evasion Referral Centre (TERC)",
+    "acronym": "",
+    "description": "This service enables individuals and businesses to contact ATO to make allegations of tax evasion. The information provided is used to determine industry trends, new risk areas and to assist in developing compliance strategies",
+    "colourStyle": "",
+    "lineStyle": "",
+    "shapeStyle": "",
+    "hoverFieldStyle": "",
+    "secondary": false,
+    "lifeEvents": [],
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_012",
+      "name": "Listening to the Community",
+      "desc": "The Listening to the Community cluster covers services in which the community come forward to proactively provide us with information and/or feedback they have no obligation to provide.For example, a community member may want to provide information on tax evasion or feedback on service they have experienced. Through this cluster the Tax Office provide services for the community to share this information so we are able to investigate and act to either improve our services or detect non compliance."
+    },
+    {
+      "dist": 2,
+      "id": "CLS_EDU",
+      "name": "Education & Support",
+      "desc": "The Education component covers all services in which the Tax Office proactively provides the community about tax and superannuation obligations. Generally these services have an education focus with the aim to influence voluntary compliance - making it easier to comply through self-registration activities. This could include items that are sent out to the general community such as media releases, brochures issued through schools, TV or radio advertisements, or speaker events. Additionally this also includes educational communication campaigns targeted at specific groups - for example, we may identify that everyone receiving FTB part A may be eligible for Education Tax Refund, so a mail out could be sent to those people specifically. The Support component covers all advice the Tax Office provides in response to requests from the community seeking advice to help them meet their tax and super obligations or request refunds. Advice could either be general in nature (eg. Can you tell me how CGT works?) or could be related specifically to the customer's personal circumstances (eg. Can you tell me how I can calculate my rental deductions?). Providing efficient accurate advice helps to fulfil our responsibilities to the community as per the Tax Payer's Charter and is key in promoting voluntary compliance through assisting those who are trying to meet their obligations."
+    },
+    {
+      "dist": 3,
+      "id": "ORG_ATO",
+      "name": "Australian Taxation Office",
+      "desc": ""
+    }
+  ],
+  "Subs": []
+}

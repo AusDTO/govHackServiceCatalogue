@@ -1,0 +1,44 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "Available through other payments",
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_092",
+    "name": "Telephone Allowance",
+    "acronym": "TA",
+    "tagline": null,
+    "dtoTags": [],
+    "TODO": "Available through other payments",
+    "description": "Telephone Allowance (TAL) is a payment made quarterly to eligible telephone subscribers with their first income support payment issued on or after the following dates of each year: 1 January; 20 March; 1 July; and 20 September.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/telephone-allowance",
+    "oldID": 92,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    }
+  ],
+  "subService": []
+}

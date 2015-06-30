@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_192",
+    "name": "Child Support Collection",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Child Support Collection: A Child Support Payment is an amount of money transferred between separated parents used to help raise children whether they live in Australia or overseas. Child Support Payments can be transferred privately or the receiving parent can ask DHS to do it for them, once a Child Support Assessment has been done or have registered an agreement or court order with DHS.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/enablers/child-support/collection-of-child-support-payments",
+    "oldID": 3,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

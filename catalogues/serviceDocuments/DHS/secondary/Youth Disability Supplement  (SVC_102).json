@@ -1,0 +1,90 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "DSP dependant",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_102",
+    "name": "Youth Disability Supplement ",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "TODO": "DSP dependant",
+    "description": "Youth Disability Supplement (YDS) is available to recipients of Disability Support Pension who are 21 years of age or under or Youth Allowance and ABSTUDY recipients who are 21 years of age and under and have been assessed by an Employment Services Assessment (ESAt) or Job Capacity Assessment (JCA) as having a partial capacity to work of less than 30 hours per week. ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/youth-disability-supplement",
+    "oldID": 102,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": true,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_039",
+      "name": "Disability Support Pension",
+      "desc": "Disability Support Pension (DSP) is an income support payment for people who are aged between 16 years and age pension age (when claiming), satisfy the residence criteria, and either: are permanently blind, or have a physical, intellectual or psychiatric disability causing functional incapacity of at least 20 points as measured by the Impairment Tables, and have a Continuing Inability to Work (CITW), or are participating in Supported Wage System (SWS).",
+      "primaryAudience": null,
+      "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/disability-support-pension"
+    },
+    {
+      "dist": 2,
+      "id": "THM_DIS",
+      "name": "People with disability",
+      "desc": "We provide payments and services to help you if you have an illness, injury or a disability that means you cannot work, or can only do a limited amount of work.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/people-with-a-disability"
+    },
+    {
+      "dist": 3,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 3,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 4,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 5,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,138 @@
+{
+  "organisationDefinition": {
+    "serviceOrganisation": {
+      "type": "ORG",
+      "id": "ORG_AG",
+      "name": "Attorney-General's Department",
+      "acronym": "AG",
+      "tagline": "",
+      "description": "The Attorney-General's Department delivers programs and policies to maintain and improve Australia's law and justice framework, strengthen our national security and emergency management, and provide support for arts and culture. Our department is the central policy and coordinating element of the Attorney-General's portfolio, for which the Attorney-General and Minister for the Arts; Minister for Justice and Minister Assisting the Prime Minister on Counter-Terrorism; and Parliamentary Secretary to the Attorney-General are responsible.",
+      "infoUrl": "http://www.abs.gov.au/"
+    },
+    "serviceDimensions": [
+      {
+        "type": "SVC",
+        "id": "SVC_001",
+        "name": "Access To Justice",
+        "acronym": null,
+        "tagline": null,
+        "dtoTags": [],
+        "description": "Provides access to information about legal assistance and related services in your local area such as legal aid, community legal centres, family relationship centres, and dispute resolution services.",
+        "topics": [],
+        "categories": [],
+        "lifeEvents": [],
+        "infoUrl": "http://www.accesstojustice.gov.au/",
+        "primaryAudience": [
+          "Individuals",
+          "Business"
+        ],
+        "targetedAgeRange": null,
+        "primaryChannel": [
+          "Web"
+        ]
+      },
+      {
+        "type": "SVC",
+        "id": "SVC_002",
+        "name": "Before The Storm",
+        "acronym": null,
+        "tagline": null,
+        "dtoTags": [],
+        "description": "An educational game, for middle year students, designed to get us thinking about storm preparation and disaster resilience.",
+        "topics": [],
+        "categories": [],
+        "lifeEvents": [],
+        "infoUrl": "https://www.em.gov.au/Resources/Pages/Before-the-Storm-phone-game.aspx",
+        "primaryAudience": [
+          "Individuals"
+        ],
+        "targetedAgeRange": "0-14",
+        "primaryChannel": [
+          "Mobile"
+        ]
+      },
+      {
+        "type": "SVC",
+        "id": "SVC_003",
+        "name": "Disaster Watch",
+        "acronym": null,
+        "tagline": null,
+        "dtoTags": [],
+        "description": "Provides publicly available news and information about disaster events in Australia via direct feeds from a range of authoritative sources in the states and territories and nationally. The information will be regularly updated.",
+        "topics": [],
+        "categories": [],
+        "lifeEvents": [],
+        "infoUrl": "https://www.em.gov.au/Resources/Pages/DisasterWatchPhoneApp.aspx",
+        "primaryAudience": [
+          "Indviduals, Business"
+        ],
+        "targetedAgeRange": null,
+        "primaryChannel": [
+          "Mobile"
+        ]
+      },
+      {
+        "type": "SVC",
+        "id": "SVC_004",
+        "name": "Emergency Plus",
+        "acronym": null,
+        "tagline": null,
+        "dtoTags": [],
+        "description": "Australia’s Triple Zero Awareness Working Group has developed a smartphone app for iOS and Android devices to: provide the caller with information about when to call Triple Zero, provide the caller with information about who to call in various non-emergency situations, assist the caller to dial the relevant number, display the GPS coordinates of the phone's location that the caller can read out to the emergency operator.",
+        "topics": [],
+        "categories": [],
+        "lifeEvents": [],
+        "infoUrl": "http://www.triplezero.gov.au/Pages/EmergencySmartphoneApp.aspx",
+        "primaryAudience": [
+          "Indviduals"
+        ],
+        "targetedAgeRange": null,
+        "primaryChannel": [
+          "Mobile"
+        ]
+      },
+      {
+        "type": "SVC",
+        "id": "SVC_005",
+        "name": "Kids Challenge",
+        "acronym": null,
+        "tagline": null,
+        "dtoTags": [],
+        "description": "Kids will learn how to deal confidently with getting help in an emergency, by playing games and solving problems. They'll learn about safety messages and hear what happens when you call Triple Zero (000).",
+        "topics": [],
+        "categories": [],
+        "lifeEvents": [],
+        "infoUrl": "http://kids.triplezero.gov.au/",
+        "primaryAudience": [
+          "Indviduals"
+        ],
+        "targetedAgeRange": null,
+        "primaryChannel": [
+          "Mobile"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "source": "ORG_AG",
+        "target": "SVC_001"
+      },
+      {
+        "source": "ORG_AG",
+        "target": "SVC_002"
+      },
+      {
+        "source": "ORG_AG",
+        "target": "SVC_003"
+      },
+      {
+        "source": "ORG_AG",
+        "target": "SVC_004"
+      },
+      {
+        "source": "ORG_AG",
+        "target": "SVC_005"
+      }
+    ]
+  }
+}

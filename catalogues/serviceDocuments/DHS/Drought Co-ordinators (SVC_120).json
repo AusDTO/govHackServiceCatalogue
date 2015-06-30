@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_120",
+    "name": "Drought Co-ordinators",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Drought Co-ordinators assist with the delivery of mental health and social support services in drought-affected areas. A network of Drought Coordinators commenced on 1 April 2014. Drought Coordinators are located in Mt Isa, Longreach, Charleville, Tamworth and Armidale to ensure coordination with state-based and local services and complement other social support efforts in their regions. Drought Coordinators will travel to drought-affected areas to facilitate social services and attend community events. The Drought Coordinators are in addition to the social and mental support services operating in drought-affected areas of New South Wales and Queensland.",
+    "infoUrl": "http://www.humanservices.gov.au/business/news/drought-coordinators",
+    "oldID": 120,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_002",
+    "name": "TrackMyGOALS",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Track your savings goals on the go with this easy-to-use app. TrackMyGOALS integrates techniques that we know work for successful savers. It allows you to set, plan, track and manage your savings goals and visualize your progress towards achieving those goals. The TrackMyGOALS app helps you cultivate good savings habits and reach your dreams.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "https://www.moneysmart.gov.au/tools-and-resources/calculators-and-apps/mobile-apps/trackmygoals",
+    "primaryAudience": null,
+    "targetedAgeRange": "14-65",
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ASIC",
+      "name": "Australian Securities and Investments Commission",
+      "desc": "ASIC is Australia’s corporate, markets and financial services regulator. We contribute to Australia’s economic reputation and wellbeing by ensuring that Australia’s financial markets are fair and transparent, supported by confident and informed investors and consumers.",
+      "infoUrl": "http://www.asic.gov.au/"
+    }
+  ],
+  "subService": []
+}

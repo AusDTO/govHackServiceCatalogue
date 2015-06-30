@@ -1,0 +1,38 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_001",
+    "name": "Catalogue",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "This catalogue is a next-generation library system. It provides much better searching combined with other features found in modern web applications to make our resources easier to discover and request.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://catalogue.nla.gov.au/",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Web",
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_NLA",
+      "name": "National Library of Australia",
+      "desc": "The National Library of Australia is one of several agencies within the Ministry for the Arts, which is part of the Attorney-General's Department, with responsibility for maintaining and disseminating Australia’s cultural heritage. The Library’s role, as defined by the National Library Act 1960, is to ensure that documentary resources of national significance relating to Australia and the Australian people, as well as significant non-Australian library materials, are collected, preserved and made accessible either through the Library or through collaborative arrangements with other libraries and information providers. By offering a strong national focus in all that we do and cooperating with others who share our goals, we support learning and creative and intellectual endeavour and contribute to the vitality of Australian culture and heritage.",
+      "infoUrl": "http://www.nla.gov.au/"
+    }
+  ],
+  "subService": []
+}

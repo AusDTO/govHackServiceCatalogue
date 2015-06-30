@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_005",
+    "name": "Kids Challenge",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Kids will learn how to deal confidently with getting help in an emergency, by playing games and solving problems. They'll learn about safety messages and hear what happens when you call Triple Zero (000).",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://kids.triplezero.gov.au/",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_AG",
+      "name": "Attorney-General's Department",
+      "desc": "",
+      "infoUrl": "http://www.abs.gov.au/"
+    }
+  ],
+  "subService": []
+}

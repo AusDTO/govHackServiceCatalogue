@@ -1,0 +1,38 @@
+{
+  "documentType": "ServiceInformation",
+  "service": {
+    "type": "SST",
+    "id": "SST_002",
+    "name": "Default Assessment",
+    "acronym": "",
+    "description": "These services helps the community to meet their lodgment obligations through default assessments.",
+    "colourStyle": "",
+    "lineStyle": "",
+    "shapeStyle": "",
+    "hoverFieldStyle": "",
+    "secondary": false,
+    "lifeEvents": [],
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_001",
+      "name": "Enforce Compliance",
+      "desc": "These services helps the community to meet their lodgment obligations through gentle reminders (such as first reminder letters) through to more severe strategies such as hard final notices, penalties and compliance reviews and audits or legal action. Compliance activities in this service seek to ensure lodgment are made within expected timeframes and to also check the accuracy of lodgment - key to ensure we are fairly administering the tax system."
+    },
+    {
+      "dist": 2,
+      "id": "CLS_CMP",
+      "name": "Compliance Activity",
+      "desc": "Compliance services in this category include assisting the community that need help to meet their lodgment obligations through gentle reminders (such as first reminder letters) through to more severe strategies such as hard final notices, penalties and compliance reviews and audits or legal action. Compliance activities in this cluster seek to ensure lodgments are made within expected timeframes and to also check the accuracy of lodgments - key to ensure we are fairly administering the tax system."
+    },
+    {
+      "dist": 3,
+      "id": "ORG_ATO",
+      "name": "Australian Taxation Office",
+      "desc": ""
+    }
+  ],
+  "Subs": []
+}

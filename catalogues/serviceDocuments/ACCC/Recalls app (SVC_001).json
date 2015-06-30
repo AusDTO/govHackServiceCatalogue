@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_001",
+    "name": "Recalls app",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Consumers can search the national recalls database by product name or category. You receive notifications of new recalls and can report products you think are unsafe (you can even attach a photo of it).",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://www.accc.gov.au/about-us/tools-resources/recalls-app",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ACCC",
+      "name": "Australian Competition and Consumer Commission",
+      "desc": "",
+      "infoUrl": "http://www.accc.gov.au/"
+    }
+  ],
+  "subService": []
+}

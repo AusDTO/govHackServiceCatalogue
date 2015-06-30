@@ -1,0 +1,51 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_176",
+    "name": "Supporting Leave for Living Organ Donor",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Supporting Leave for Living Organ Donor initiative supports paid leave for living organ donors by providing a payment of up to six weeks.  The payment is available to employers whose employees have had time off work either to donate an organ (being either a kidney or partial liver) or to attend medical appointments to assess their suitability to become a living organ donor.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/medicare/supporting-leave-for-living-organ-donors-scheme",
+    "oldID": 45,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_BUS",
+      "name": "Business & employers",
+      "desc": "Information and services for businesses, employers, merchants and other professional clients",
+      "infoUrl": "http://www.humanservices.gov.au/business/"
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    }
+  ],
+  "subService": []
+}

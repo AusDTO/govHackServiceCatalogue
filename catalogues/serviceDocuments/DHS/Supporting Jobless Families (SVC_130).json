@@ -1,0 +1,27 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "part of parenting payment"
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_130",
+    "name": "Supporting Jobless Families",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "TODO": "part of parenting payment",
+    "description": "The Supporting Jobless Families Programme (SJF) aims to support the long-term participation and productivity of parents who are out of work. The programme will support eligible customers in achieving: Better health and early development outcomes for their children by promoting the services and support available locally; Enhanced school readiness and school transitions for pre-school aged children by promoting the benefits of early childhood learning and education such as preschool; Looking for work by informing and supporting parents to increase their capacity to overcome prevocational barriers to employment and be more engaged in the community.",
+    "infoUrl": "http://www.humanservices.gov.au/community/government-programs/supporting-families",
+    "oldID": 130,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

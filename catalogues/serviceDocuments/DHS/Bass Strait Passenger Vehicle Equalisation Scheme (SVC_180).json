@@ -1,0 +1,52 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "Check if this gets tagged with health",
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_180",
+    "name": "Bass Strait Passenger Vehicle Equalisation Scheme",
+    "TODO": "Check if this gets tagged with health",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Bass Strait Passenger Vehicle Equalisation Scheme (BSPVES) provides a rebate against the fare charged by a ferry operator, for an accompanied passenger vehicle or caravan. Ferry operators claim reimbursement of the BSPVES rebate from the Department of Human Services on a monthly basis.",
+    "infoUrl": "http://www.humanservices.gov.au/business/services/centrelink/bass-strait-equalisation-scheme/",
+    "oldID": 49,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_BUS",
+      "name": "Business & employers",
+      "desc": "Information and services for businesses, employers, merchants and other professional clients",
+      "infoUrl": "http://www.humanservices.gov.au/business/"
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    }
+  ],
+  "subService": []
+}

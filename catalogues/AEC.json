@@ -1,0 +1,41 @@
+{
+  "organisationDefinition": {
+    "serviceOrganisation": {
+      "type": "ORG",
+      "id": "ORG_AEC",
+      "name": "Australian Electoral Commission",
+      "acronym": "AEC",
+      "tagline": "",
+      "description": "The role of the Australian Electoral Commission is to deliver the franchise: that is, an Australian citizen's right to vote, as established by the Commonwealth Electoral Act 1918.",
+      "infoUrl": "http://www.aec.gov.au/"
+    },
+    "serviceDimensions": [
+      {
+        "type": "SVC",
+        "id": "SVC_001",
+        "name": "Find My Electorate",
+        "acronym": null,
+        "tagline": null,
+        "dtoTags": [],
+        "description": "Use this search to find which electorate you live in, see who your local Member is, find your nearest polling place on Election Day and look at a profile and Map of your electorate. A search will bring up a link to your local federal electorate; click on the 'more information' link to find your local member and his party.",
+        "topics": [],
+        "categories": [],
+        "lifeEvents": [],
+        "infoUrl": "http://apps.aec.gov.au/esearch/",
+        "primaryAudience": [
+          "Individuals"
+        ],
+        "targetedAgeRange": "14-99",
+        "primaryChannel": [
+          "Web"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "source": "ORG_AEC",
+        "target": "SVC_001"
+      }
+    ]
+  }
+}

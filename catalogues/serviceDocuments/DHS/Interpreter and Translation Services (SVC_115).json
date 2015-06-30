@@ -1,0 +1,27 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_115",
+    "name": "Interpreter and Translation Services",
+    "acronym": null,
+    "incedental": true,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Interpreter and Translation Services are provided free to help customers do business with us.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/indigenous-specialist-officers",
+    "oldID": 115,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

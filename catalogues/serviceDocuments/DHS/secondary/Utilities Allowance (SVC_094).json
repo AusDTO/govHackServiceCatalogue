@@ -1,0 +1,124 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    " Disability Support Pension Partner Allowance or Widow Allowance",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_094",
+    "incedental": true,
+    "name": "Utilities Allowance",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "TODO": " Disability Support Pension Partner Allowance or Widow Allowance",
+    "description": "Utilities Allowance (UA) is paid to certain customers to assist in meeting the cost of regular bills such as gas, electricity and water.",
+    "infoUrl": "",
+    "oldID": 94,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": true,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 1,
+      "id": "SVC_039",
+      "name": "Disability Support Pension",
+      "desc": "Disability Support Pension (DSP) is an income support payment for people who are aged between 16 years and age pension age (when claiming), satisfy the residence criteria, and either: are permanently blind, or have a physical, intellectual or psychiatric disability causing functional incapacity of at least 20 points as measured by the Impairment Tables, and have a Continuing Inability to Work (CITW), or are participating in Supported Wage System (SWS).",
+      "primaryAudience": null,
+      "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/disability-support-pension"
+    },
+    {
+      "dist": 1,
+      "id": "SVC_071",
+      "name": "Partner Allowance",
+      "desc": "Partner Allowance (PA) is an income support payment for older people who  are partners of income support recipients and  face barriers to finding employment because of their lack of recent workforce experience. PA was introduced so that each partner of a couple receives a separate payment, rather than one of the couple receiving a combined payment. This ensures that each customer is treated as an individual rather than being dependent upon another person. There are no new grants for PA from the 20 September 2003. ",
+      "primaryAudience": null,
+      "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/partner-allowance"
+    },
+    {
+      "dist": 1,
+      "id": "SVC_096",
+      "name": "Widow Allowance",
+      "desc": "Widow Allowance (WA) was introduced to provide an income support option for older women who had lost the support of a partner (through death, divorce or separation) and who had no recent workforce experience. WA will be phased out from 1 July 2005 with new grants from this date only to be made to women who were born on or before 1 July 1955.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/widow-allowance"
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 2,
+      "id": "THM_DIS",
+      "name": "People with disability",
+      "desc": "We provide payments and services to help you if you have an illness, injury or a disability that means you cannot work, or can only do a limited amount of work.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/people-with-a-disability"
+    },
+    {
+      "dist": 2,
+      "id": "THM_EMG",
+      "name": "Help in an emergency",
+      "desc": null,
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/help-in-an-emergency"
+    },
+    {
+      "dist": 3,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 3,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 4,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 5,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

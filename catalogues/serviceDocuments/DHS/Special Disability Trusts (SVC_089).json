@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_089",
+    "name": "Special Disability Trusts",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "A Special Disability Trust (SDT) is a private trust established for a sole beneficiary, who has a severe disability or medical condition, by the parent/s or a close relative for the future care and accommodation needs of the beneficiary.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/special-disability-trusts",
+    "oldID": 89,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

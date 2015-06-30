@@ -1,0 +1,80 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_033",
+    "name": "Child Care Benefit",
+    "acronym": "CCB",
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Approved Child Care Benefit (CCF) is a payment to help families with the cost of child care. Child Care Benefit approved child care is provided by child care services approved by the Department of Education.  Most long day care, family day care, before and after school care, vacation care, in home care and occasional care services are Child Care Benefit approved child care services.  Registered Child Care Benefit (CCI) is a payment to help with the cost of child care for families using registered child care.  Registered care is child care provided by nannies, grandparents, relatives or friends who are registered with us.  In some circumstances it can also include child care provided by individuals in private pre-schools, kindergartens and some outside school hours care services.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/child-care-benefit",
+    "oldID": 33,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_FAM",
+      "name": "Families",
+      "desc": "We provide a range of payments and services to help you look after your children's education and health care, and any family issues that may come up along the way.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/families"
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

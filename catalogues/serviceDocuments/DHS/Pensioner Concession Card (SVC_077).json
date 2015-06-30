@@ -1,0 +1,43 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_077",
+    "name": "Pensioner Concession Card",
+    "acronym": "PCC",
+    "tagline": null,
+    "dtoTags": [],
+    "description": "A Pensioner Concession Card (PCC) is a concession card issued by Centrelink on behalf of the Department of Social Services (DSS), under Commonwealth Health or social security legislation. Its primary purpose is to indicate a customer's entitlement to Commonwealth Health concessions such as pharmaceutical benefits. ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/pensioner-concession-card",
+    "oldID": 77,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    }
+  ],
+  "subService": []
+}

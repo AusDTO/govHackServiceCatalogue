@@ -1,0 +1,97 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "Internal",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_165",
+    "name": "National Health Funding Administration Payment System",
+    "acronym": null,
+    "tagline": null,
+    "TODO": "Internal",
+    "dtoTags": [],
+    "description": "The National Health Funding Administrator Payments System, supports the reforms to Australian Government and state and territory government funding arrangements for hospital services. The department provides program, corporate and support services to assist the Administrator of the National Health Funding Pool and the National Health Funding Body to carry out their functions.",
+    "infoUrl": "",
+    "oldID": 34,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_HPR",
+      "name": "Health professionals",
+      "desc": "Helping health professionals, practice staff and pharmacy assistants do business with us.",
+      "infoUrl": "http://www.humanservices.gov.au/health-professionals/"
+    },
+    {
+      "dist": 1,
+      "id": "AUD_GOV",
+      "name": "Government",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "MP_MCA",
+      "name": "Medicare",
+      "desc": "Looking after the health of Australians.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/medicare"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 3,
+      "id": "MCA_ONL",
+      "name": "Medicare Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_MCA",
+      "name": "Medicare Offices",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

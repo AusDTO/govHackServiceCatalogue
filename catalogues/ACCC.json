@@ -1,0 +1,91 @@
+{
+  "organisationDefinition": {
+    "serviceOrganisation": {
+      "type": "ORG",
+      "id": "ORG_ACCC",
+      "name": "Australian Competition and Consumer Commission",
+      "acronym": "ACCC",
+      "tagline": "",
+      "description": "The ACCC promotes competition and fair trade in markets to benefit consumers, businesses, and the community. We also regulate national infrastructure services. Our primary responsibility is to ensure that individuals and businesses comply with Australian competition, fair trading, and consumer protection laws - in particular the Competition and Consumer Act 2010.",
+      "infoUrl": "http://www.accc.gov.au/"
+    },
+    "serviceDimensions": [
+      {
+        "type": "SVC",
+        "id": "SVC_001",
+        "name": "Recalls app",
+        "acronym": null,
+        "tagline": null,
+        "dtoTags": [],
+        "description": "Consumers can search the national recalls database by product name or category. You receive notifications of new recalls and can report products you think are unsafe (you can even attach a photo of it).",
+        "topics": [],
+        "categories": [],
+        "lifeEvents": [],
+        "infoUrl": "http://www.accc.gov.au/about-us/tools-resources/recalls-app",
+        "primaryAudience": [
+          "Individuals",
+          "Business"
+        ],
+        "targetedAgeRange": null,
+        "primaryChannel": [
+          "Mobile"
+        ]
+      },
+      {
+        "type": "SVC",
+        "id": "SVC_002",
+        "name": "ACCC Shopper app",
+        "acronym": null,
+        "tagline": null,
+        "dtoTags": [],
+        "description": "Advice on your refund, warranty and lay-by rights while shopping. Tells you what to look for if you want to buy food that comes from a particular country.",
+        "topics": [],
+        "categories": [],
+        "lifeEvents": [],
+        "infoUrl": "http://www.accc.gov.au/about-us/tools-resources/accc-shopper-app",
+        "primaryAudience": [
+          "Individuals",
+          "Business"
+        ],
+        "targetedAgeRange": null,
+        "primaryChannel": [
+          "Mobile"
+        ]
+      },
+      {
+        "type": "SVC",
+        "id": "SVC_003",
+        "name": "Keeping Baby Safe",
+        "acronym": null,
+        "tagline": null,
+        "dtoTags": [],
+        "description": "A guide to infant and nursery products with easy steps you can take to ensure your baby remains safe in your home.",
+        "topics": [],
+        "categories": [],
+        "lifeEvents": [],
+        "infoUrl": "http://www.accc.gov.au/about-us/tools-resources/keeping-baby-safe-app",
+        "primaryAudience": [
+          "Individuals"
+        ],
+        "targetedAgeRange": null,
+        "primaryChannel": [
+          "Mobile"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "source": "ORG_ACCC",
+        "target": "SVC_001"
+      },
+      {
+        "source": "ORG_ACCC",
+        "target": "SVC_002"
+      },
+      {
+        "source": "ORG_ACCC",
+        "target": "SVC_003"
+      }
+    ]
+  }
+}

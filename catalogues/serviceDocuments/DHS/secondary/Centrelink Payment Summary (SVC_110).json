@@ -1,0 +1,28 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "Doco for the incedental designation"
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_110",
+    "TODO": "Doco for the incedental designation",
+    "incidental": true,
+    "name": "Centrelink Payment Summary",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Centrelink Payment Summaries (previously known as Group Certificates) are available on request for customers to access who were in receipt of a taxable payment and/or tax related components irrespective of whether tax has been deducted from the payments. Payment Summaries are also generated for customers who were previously on payments.",
+    "infoUrl": "",
+    "oldID": 110,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

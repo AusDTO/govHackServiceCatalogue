@@ -1,0 +1,38 @@
+{
+  "documentType": "ServiceInformation",
+  "service": {
+    "type": "SST",
+    "id": "SST_027",
+    "name": "Intervention Prevention Audit",
+    "acronym": "",
+    "description": "These services includes various review and audit activities conducted to examine a taxpayer's affairs to see if they has done what they were required to do under the tax and superannuation laws.- Assurance Audit: Undertaken in relation to regulatory roles and providing assurance to government. These audits would not generally result in a revenue result.- Audit: Other audit activities not covered by a specific audit type.- Compliance Agreement: Cooperative agreements and/or arrangements between the taxpayer, their representatives, third parties or other taxation jurisdictions and the ATO, that are aimed at improving the compliance relationship, providing more certainty through real-time compliance and supporting the optimisation of voluntary compliance. This may include defining the basis of future tax claims or disputes, joint relationship governance responsibilities, ongoing full and true disclosure requirements, relationship maintenance activities, annual review and sign-off processes. - Comprehensive audit: Cover multiple issues and may cover multiple periods; they are considered extensive, having wide variety or unlimited scope, and may include systems.- Comprehensive review: Cover multiple issues and may cover multiple periods, extensive, wide variety and unlimited scope, including the application of systems-based methodology. - Data Matching: conducted as a result of our data-matching activities- Intervention Prevention Audit: Actions undertaken in relation to pre-issue cases designed to protect the revenue.- Obligations Envorcement: Actions, other than audit, to ensure administrative compliance with obligations such as registration, lodgement, payment, regulatory responsibilities and withholding liability.- Obligation review: Reviews to ascertain administrative compliance with obligations. - Review: Reviews identify tax risks and assess the likelihood and consequence of those risks at a case level, and the options to address those risks. Review cases are highlighted through our risk engines, profiling tools and other information analysis activities. - Specific audit: Focus on one or more specific issues, and have restricted focus.- Specific review: Address one or more specific issues with limited focus. - Voluntary disclosures are encouraged during reviews and taxpayers will generally receive significant penalty reductions for shortfall amounts disclosed during reviews.",
+    "colourStyle": "",
+    "lineStyle": "",
+    "shapeStyle": "",
+    "hoverFieldStyle": "",
+    "secondary": false,
+    "lifeEvents": [],
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_004",
+      "name": "Review & Audit Tax Risk",
+      "desc": "This service enables individual, non-individual entities and their representatives to meet obligations in relation to compliance activity."
+    },
+    {
+      "dist": 2,
+      "id": "CLS_CMP",
+      "name": "Compliance Activity",
+      "desc": "Compliance services in this category include assisting the community that need help to meet their lodgment obligations through gentle reminders (such as first reminder letters) through to more severe strategies such as hard final notices, penalties and compliance reviews and audits or legal action. Compliance activities in this cluster seek to ensure lodgments are made within expected timeframes and to also check the accuracy of lodgments - key to ensure we are fairly administering the tax system."
+    },
+    {
+      "dist": 3,
+      "id": "ORG_ATO",
+      "name": "Australian Taxation Office",
+      "desc": ""
+    }
+  ],
+  "Subs": []
+}

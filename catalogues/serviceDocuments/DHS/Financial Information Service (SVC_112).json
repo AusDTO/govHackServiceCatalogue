@@ -1,0 +1,29 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_112",
+    "name": "Financial Information Service",
+    "acronym": "FIS",
+    "tagline": null,
+    "topics": [
+      "Money and tax"
+    ],
+    "dtoTags": [],
+    "description": "The Financial Information Service (FIS) is a free education and expert information service provided by the Government. FIS helps people to make informed decisions about investment and financial issues by assisting them to understand their own financial affairs and the options available to them. FIS provides a service by phone, appointment and through seminars.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/financial-information-service",
+    "oldID": 112,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

@@ -1,0 +1,43 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_062",
+    "name": "Low Income Supplement",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Low Income Supplement (LIS) is an annual non-taxable lump sum payment available to independent adults in low income households that do not receive adequate assistance through tax cuts or other assistance payments.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/low-income-supplement",
+    "oldID": 62,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    }
+  ],
+  "subService": []
+}

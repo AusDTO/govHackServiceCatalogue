@@ -1,0 +1,43 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_049",
+    "name": "Health Care Card",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Health Care Card (HCC) is a  card issued by Centrelink under Commonwealth Health or Social Security legislation. Its primary purpose is to indicate a customer's entitlement to Commonwealth Health concessions such as pharmaceutical benefits. The HCC is also used as proof of a person's entitlement to concessions offered by State and local government authorities. Many private companies also offer concessions to HCC holders.",
+    "infoUrl": "",
+    "oldID": 49,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_CRS",
+      "name": "Cross Theme",
+      "desc": null,
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    }
+  ],
+  "subService": []
+}

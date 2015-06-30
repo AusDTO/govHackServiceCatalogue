@@ -1,0 +1,38 @@
+{
+  "documentType": "ServiceInformation",
+  "service": {
+    "type": "SST",
+    "id": "SST_193",
+    "name": "AUSkey",
+    "acronym": "",
+    "description": "This service enables businesses, tax agents and BAS agents to register for AUSkey for access to their online portals.",
+    "colourStyle": "",
+    "lineStyle": "",
+    "shapeStyle": "",
+    "hoverFieldStyle": "",
+    "secondary": false,
+    "lifeEvents": [],
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_029",
+      "name": "Register for Digital Services",
+      "desc": "This service enables individuals to register for ATO Online including myGov, and non-individual entities to register for AUSkey."
+    },
+    {
+      "dist": 2,
+      "id": "CLS_REG",
+      "name": "Registration Services",
+      "desc": "The Registration cluster encompasses all services for the community to register themselves for their tax and super obligations and to maintain these registrations accurately as their situation changes. These services enable businesses to register for taxation purposes, and to maintain their registration - this includes their Australian Business Number (ABN) and other roles that relate to specific taxation obligations (e.g. GST, PAYGW, etc.). The community is expected to proactively register themselves accurately. Accurate registration allows for accurate level of compliance."
+    },
+    {
+      "dist": 3,
+      "id": "ORG_ATO",
+      "name": "Australian Taxation Office",
+      "desc": ""
+    }
+  ],
+  "Subs": []
+}

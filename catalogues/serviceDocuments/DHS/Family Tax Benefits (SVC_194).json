@@ -1,0 +1,120 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_194",
+    "name": "Family Tax Benefits",
+    "acronym": "FTB",
+    "tagline": null,
+    "dtoTags": [],
+    "description": "A 2 part payment that helps with the cost of raising children - Family Tax Benefit Part A and Part B.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/family-tax-benefit-part-a-part-b",
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_FAM",
+      "name": "Families",
+      "desc": "We provide a range of payments and services to help you look after your children's education and health care, and any family issues that may come up along the way.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/families"
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": [
+    {
+      "id": "SVC_059",
+      "name": "Large Family Supplement",
+      "desc": "Large Family Supplement (LFS) is paid as part of Family Tax Benefit (FTB) Part A to families with three or more FTB children.",
+      "infoUrl": "",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_060",
+      "name": "Low Income Family Supplement",
+      "desc": "Low Income Family Supplement is an administrative name for the Low Income Supplement. The name applies to customers who received or were eligible for Family Tax Benefit (FTB) for 39 weeks or more in the previous financial year. It is an annual lump sum payment available to independent adults in low income households that do not receive adequate assistance through tax cuts or other assistance payments.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/low-income-family-supplement",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_064",
+      "name": "Multiple Birth Allowance",
+      "desc": "Multiple Birth Allowance (MBA) is payable to customers with three or more FTB children born during the same birth up until they turn 16 years of age. For children aged 16-18 years, MBA is only payable for periods where at least three children of the birth set are full-time secondary students.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/enablers/centrelink/family-tax-benefit-part-a-part-b/ftb-a-payment-rates",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_066",
+      "name": "Newborn Upfront Payment",
+      "desc": "In most circumstances where a customer is eligible for NBS for at least one day, a Newborn Upfront Payment (NBU) is payable. The NBU is a separate amount to the NBS and is not an add-on component of FTB Part A. ",
+      "infoUrl": "http://www.humanservices.gov.au/customer/enablers/centrelink/family-tax-benefit-part-a-part-b/ftb-a-payment-rates",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_084",
+      "name": "Schoolkids Bonus",
+      "desc": "The Schoolkids Bonus (SkB) is designed to deliver education assistance to families on an ongoing basis. These payments are paid to eligible families in January and July each year from 2013 onwards.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/services/schoolkids-bonus",
+      "primaryAudience": null
+    }
+  ]
+}

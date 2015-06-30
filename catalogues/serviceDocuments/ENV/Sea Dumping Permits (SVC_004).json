@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_004",
+    "name": "Sea Dumping Permits",
+    "acronym": null,
+    "tagline": "",
+    "dtoTags": [],
+    "description": "Permits are required for all sea dumping operations including dumping off vessels, platforms or other man-made structures and for burials at sea. Australia has International obligations to prevent marine pollution by controlling dumping of wastes and other matter.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://www.environment.gov.au/topics/marine/marine-pollution/sea-dumping/forms-and-application-fees",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mail"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ENV",
+      "name": "Department of the Environment",
+      "desc": "The Department of the Environment designs and implements the Australian Government’s policies and programmes to protect and conserve the environment, water and heritage and promote climate action. The environmental framework is being delivered under four pillars: Clean air, Clean water, Clean lan, National Heritage",
+      "infoUrl": "http://www.environment.gov.au/"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,87 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_067",
+    "name": "Newstart Allowance",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Newstart Allowance (NSA) is designed to ensure that people aged 22 and over who are unemployed receive an adequate level of income & participate in activities designed to increase their chances of finding work. NSA can be paid to temporarily incapacitated people who do not qualify for Sickness Allowance (SkA) because they are under the statutory age limit for SkA or because they do not have a job or study to return to.",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/newstart-allowance",
+    "categories": [],
+    "lifeEvents": [
+      "I have lost my job",
+      "I am leaving school and wondering what next",
+      "Closing a business",
+      "Starting a business"
+    ],
+    "oldID": 67,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_JSR",
+      "name": "Job seekers",
+      "desc": "We Fer income support if you are looking for work, completing approved studies or have a disability and are looking for work.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/job-seekers"
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

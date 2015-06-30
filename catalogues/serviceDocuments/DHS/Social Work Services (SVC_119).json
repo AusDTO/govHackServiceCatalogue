@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_119",
+    "name": "Social Work Services",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Social Work Services incorporate the concept of socially inclusive practice with the objective of assisting the customer, regardless of experiences and circumstances, to achieve their potential.  Social workers work with customers to assist with and improve their engagement in social and economic participation. ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/social-work-services",
+    "oldID": 119,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

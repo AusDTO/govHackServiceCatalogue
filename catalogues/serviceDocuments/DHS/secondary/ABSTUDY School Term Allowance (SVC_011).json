@@ -1,0 +1,95 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_011",
+    "name": "ABSTUDY School Term Allowance",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "ABSTUDY School Term Allowance (STA) is a payment that is paid to the applicant for students who qualify for Schooling A to assist with expenses associated with equipping the student for school, e.g. uniforms, textbooks and materials. STA is available for secondary students under 16 living at home or not eligible for the away from home, independent or pensioner rates, and primary school students aged 14 at 1 January in the year of study. Home schooled and distance education students also qualify for School Term Allowance even though they do not physically attend at an education institution.",
+    "oldID": 11,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": true,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_193",
+      "name": "ABSTUDY",
+      "desc": "Helps with costs for Aboriginal and Torres Strait Islander Australians who are studying or undertaking an Australian Apprenticeship.",
+      "infoUrl": ""
+    },
+    {
+      "dist": 2,
+      "id": "THM_IND",
+      "name": "Indigenous Australians",
+      "desc": "We provide payments to help Indigenous Australians finish studies and to support them while they are looking for work.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/indigenous-australians"
+    },
+    {
+      "dist": 2,
+      "id": "THM_STU",
+      "name": "Students and trainees",
+      "desc": "Support for those who are studying, training or undertaking an Australian Apprenticeship.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/students-and-trainees"
+    },
+    {
+      "dist": 3,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 3,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 4,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 5,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

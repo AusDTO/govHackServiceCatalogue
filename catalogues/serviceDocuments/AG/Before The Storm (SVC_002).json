@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_002",
+    "name": "Before The Storm",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "An educational game, for middle year students, designed to get us thinking about storm preparation and disaster resilience.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "https://www.em.gov.au/Resources/Pages/Before-the-Storm-phone-game.aspx",
+    "primaryAudience": null,
+    "targetedAgeRange": "0-14",
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_AG",
+      "name": "Attorney-General's Department",
+      "desc": "",
+      "infoUrl": "http://www.abs.gov.au/"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_003",
+    "name": "ON TRACK with The Right Mix",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Track the number and types of drinks you consume; the amount of money it's costing you and calculate the impact the alcohol has on your well-being and fitness levels.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://at-ease.dva.gov.au/therightmix/recognise/mobile-applications/",
+    "primaryAudience": null,
+    "targetedAgeRange": "19-99",
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_DVA",
+      "name": "Department of Veterans' Affairs",
+      "desc": "The Department of Veterans’ Affairs (DVA) is an Australian Government agency. We provide support and provide information for: veterans and their dependants, Australian Defence Force personnel, war widows/widowers, Australian participants in British Nuclear Tests in Australia, members of the Australian Federal Police, and students, teachers and historians.",
+      "infoUrl": "http://www.dva.gov.au/"
+    }
+  ],
+  "subService": []
+}

@@ -1,0 +1,28 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "Check incedental assignment, appears to be only for helping with FHA"
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_122",
+    "incidental": true,
+    "TODO": "Check incedental assignment, appears to be only for helping with FHA",
+    "name": "Farm Household Case Officers",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The role of Farm Household Case Officers: explaining the requirements for a Financial Improvement Agreement (FIA) * using the FHA recipient's Farm Financial Assessment (FFA), to inform the discussion with the recipient, to develop their FIA * contacting the FHA recipient approximately every three months to discuss the agreed activities of the FIA, including issues impacting participation in these activities * holding at least one face-to-face meeting with each FHA recipient within the three years that the recipient is receiving FHA. This meeting can be held at the recipient's farm enterprise * discussing, where appropriate, other DHS programs and services and external referrals that may be of benefit to the FHA recipient  this may include referral to services such as the RFCS.",
+    "infoUrl": "",
+    "oldID": 122,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

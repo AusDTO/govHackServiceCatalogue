@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_006",
+    "name": "NZAUConnect",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "You can now use your smartphone to quickly and easily find details on almost five million registered organisations in Australia and New Zealand with the release of the NZAUConnect app.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://asic.gov.au/online-services/search-asics-registers/additional-searches/nzauconnect-app-allows-trans-tasman-business-searches-on-the-go/",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ASIC",
+      "name": "Australian Securities and Investments Commission",
+      "desc": "ASIC is Australia’s corporate, markets and financial services regulator. We contribute to Australia’s economic reputation and wellbeing by ensuring that Australia’s financial markets are fair and transparent, supported by confident and informed investors and consumers.",
+      "infoUrl": "http://www.asic.gov.au/"
+    }
+  ],
+  "subService": []
+}

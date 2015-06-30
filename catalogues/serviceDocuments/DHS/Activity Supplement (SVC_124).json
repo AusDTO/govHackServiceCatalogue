@@ -1,0 +1,28 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "This appears to be the same as the FFA supplement"
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_124",
+    "name": "Activity Supplement",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "incedental": true,
+    "TODO": "This appears to be the same as the FFA supplement",
+    "description": "The Activity Supplement is for the purpose of funding, wholly, or partially, the cost of an activity specified in the FIA (up to a maximum amount). An individual can receive the activity supplement in more than one instalment (up to the maximum amount) and elect to receive the activity supplement directly or have it paid to a provider. ",
+    "infoUrl": "",
+    "oldID": 124,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

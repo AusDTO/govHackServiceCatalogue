@@ -1,0 +1,26 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_025",
+    "name": "Bali Lifetime Rehabilitation Assistance Package",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Bali Lifetime Rehabilitation Assistance Package provides lifetime assistance for rehabilitation care to eligible people injured in the 2002 and 2005 Bali bombings.",
+    "infoUrl": "",
+    "oldID": 25,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [],
+  "subService": []
+}

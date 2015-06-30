@@ -1,0 +1,80 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_058",
+    "name": "Language, Literacy and Numeracy Supplement",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Language, Literacy and Numeracy Supplement (LLNS) may be available to customers who participate in Skills for Education and Employment (SEE).  The LLNS provides financial assistance for job seekers who want to improve their language, literacy and numeracy skills as part of their plan to return to work. This assistance is to enable job seekers undertaking SEE to meet the additional costs associated with attendance and provides an incentive for them to participate in the program. ",
+    "infoUrl": "http://www.humanservices.gov.au/customer/services/centrelink/skills-for-education-and-employment#a4",
+    "oldID": 58,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_JSR",
+      "name": "Job seekers",
+      "desc": "We Fer income support if you are looking for work, completing approved studies or have a disability and are looking for work.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/job-seekers"
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

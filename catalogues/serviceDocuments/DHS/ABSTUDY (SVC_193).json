@@ -1,0 +1,179 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_193",
+    "name": "ABSTUDY",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "Helps with costs for Aboriginal and Torres Strait Islander Australians who are studying or undertaking an Australian Apprenticeship.",
+    "infoUrl": "",
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_IND",
+      "name": "Indigenous Australians",
+      "desc": "We provide payments to help Indigenous Australians finish studies and to support them while they are looking for work.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/indigenous-australians"
+    },
+    {
+      "dist": 1,
+      "id": "THM_STU",
+      "name": "Students and trainees",
+      "desc": "Support for those who are studying, training or undertaking an Australian Apprenticeship.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/students-and-trainees"
+    },
+    {
+      "dist": 2,
+      "id": "MP_CLK",
+      "name": "Centrelink",
+      "desc": "Delivering a range of payments and services for people at times of major change.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/centrelink"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "CLK_ONL",
+      "name": "Centrelink Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_CLK",
+      "name": "Centrelink Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": [
+    {
+      "id": "SVC_001",
+      "name": "ABSTUDY Additional Assistance",
+      "desc": "ABSTUDY Additional Assistance is to provide a means by which, in exceptional circumstances, financial benefit over and above ABSTUDY entitlements is available for students and Australian Apprentices who experience severe financial difficulties meeting associated education and training costs. ",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_002",
+      "name": "ABSTUDY Additional Incidentals Allowance",
+      "desc": "ABSTUDY Additional Incidentals Allowance is to assist students to meet essential course costs associated with study in an approved tertiary course. The Additional Incidentals Allowance is only payable where these costs must be incurred by all students in the course. This allowance is not intended to cover the full cost of such items.",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_003",
+      "name": "ABSTUDY Away from Base Assistance",
+      "desc": "ABSTUDY Away from Base Assistance is available to assist eligible students participate in the necessary academic components of an approved course where that course requires students to travel away from their home or study location for a short period of time.  Away from Base assistance covers the student's travel costs to attend the activity and the reasonable costs of accommodation and meals while away from his/her normal place of residence.",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_004",
+      "name": "ABSTUDY Incidentals Allowance",
+      "desc": "ABSTUDY Incidentals Allowance is to assist students and Australian Apprentices to meet expenses associated with commencement of study in the approved course, such as general purpose education institution fees, textbooks, equipment and stationery.",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_005",
+      "name": "ABSTUDY Lawful Custody Allowance",
+      "desc": "ABSTUDY Lawful Custody Allowance is to assist in meeting essential study and course costs for Indigenous Australian students and Australian Apprentices who are in lawful custody. ",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_006",
+      "name": "ABSTUDY Living Allowance",
+      "desc": "ABSTUDY Living Allowance is paid to assist in meeting the day to day living costs of the student or Australian Apprentice.",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_007",
+      "name": "ABSTUDY Pensioner Education Supplement",
+      "desc": "ABSTUDY Pensioner Education Supplement (PES) is to provide help and so encourage certain disadvantaged Indigenous pensioner groups, such as sole parents and people with disabilities to take up study by providing a supplement to the pension to assist with ongoing expenses associated with full-time or part-time study. ",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_008",
+      "name": "ABSTUDY Relocation Allowance",
+      "desc": "ABSTUDY Relocation Allowance is available where a student has to move to another town or city to take up a Masters and Doctorate Award to assist with removal costs, up to a set maximum and fares Allowance for the student, the student's partner and dependent child/ren to relocate to the study location. ",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_009",
+      "name": "ABSTUDY School Fees Allowance",
+      "desc": "ABSTUDY School Fees Allowance (SFA) assists students and their parent(s)/guardian(s) to meet the costs of school fees levied by the approved education institution. Home schooled and distance education students also qualify for SFA even though they do not physically attend at a school, as they may have fees levied by the education institution which meet SFA requirements.",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_010",
+      "name": "ABSTUDY Residential Costs Option",
+      "desc": "ABSTUDY Residential Costs Option (RCO) allows students living in a residential college or hostel to have their fees paid directly to the accommodation provider.",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_011",
+      "name": "ABSTUDY School Term Allowance",
+      "desc": "ABSTUDY School Term Allowance (STA) is a payment that is paid to the applicant for students who qualify for Schooling A to assist with expenses associated with equipping the student for school, e.g. uniforms, textbooks and materials. STA is available for secondary students under 16 living at home or not eligible for the away from home, independent or pensioner rates, and primary school students aged 14 at 1 January in the year of study. Home schooled and distance education students also qualify for School Term Allowance even though they do not physically attend at an education institution.",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_012",
+      "name": "ABSTUDY Thesis Allowance",
+      "desc": "ABSTUDY Thesis Allowance is for students who are undertaking or have completed Masters or Doctorate studies to assist with costs associated with the presentation of a thesis or other similar course requirement, e.g. the costs of printing, publishing and binding the thesis. This allowance is a contribution to the costs of production of the thesis, and does not include costs such as a purchase of computer equipment.",
+      "primaryAudience": null
+    },
+    {
+      "id": "SVC_013",
+      "name": "ABSTUDY Under 16 Boarding Supplement",
+      "desc": "ABSTUDY Under 16 Boarding Supplement is to assist boarding schools that have a significant number of Indigenous enrolments with the shortfall in boarding and tuition fees paid to an eligible school for students under 16 years of age who receive a lower rate of ABSTUDY Living Allowance than those aged between 16 and 20 years. These boarding schools would then receive the same rate of assistance for all their eligible secondary school students who are entitled to Living Allowance and approved for Away from Home entitlements.",
+      "primaryAudience": null
+    }
+  ]
+}

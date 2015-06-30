@@ -1,0 +1,97 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    "Look at the midwife indemnity stuff http://www.humanservices.gov.au/health-professionals/services/midwife-professional-indemnity-scheme/",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_150",
+    "name": "Indemnity - Run-Off Cover Scheme Support Payment",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "TODO": "Look at the midwife indemnity stuff http://www.humanservices.gov.au/health-professionals/services/midwife-professional-indemnity-scheme/",
+    "description": "The Run-Off Cover Indemnity Scheme (ROCS) is funded on an ongoing basis through a charge on insurers called the Run-Off Cover Scheme Support Payment which is levied as a percentage of insurers� medical indemnity insurance income and is shown on doctors� premium notices. The ROCS therefore ensures that eligible doctors receive medical indemnity cover that is secure, does not require further payment and is based on the cover they had while they were working.",
+    "infoUrl": "",
+    "oldID": 19,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": true,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_195",
+      "name": "Medical indemnity for insurers",
+      "desc": "To strengthen the availability of medical services in Australia, in 2002 the government introduced medical indemnity legislation. The legislation provides a package of financial assistance which helps keep medical indemnity insurance premiums at an affordable level. It does this by providing financial support to medical defence organisations (MDOs) and medical indemnity insurers (MIIs).",
+      "infoUrl": "http://www.humanservices.gov.au/health-professionals/services/medical-indemnity-for-insurers/"
+    },
+    {
+      "dist": 2,
+      "id": "THM_HPR",
+      "name": "Health professionals",
+      "desc": "Helping health professionals, practice staff and pharmacy assistants do business with us.",
+      "infoUrl": "http://www.humanservices.gov.au/health-professionals/"
+    },
+    {
+      "dist": 3,
+      "id": "MP_MCA",
+      "name": "Medicare",
+      "desc": "Looking after the health of Australians.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/medicare"
+    },
+    {
+      "dist": 3,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 4,
+      "id": "MCA_ONL",
+      "name": "Medicare Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "CHA_MCA",
+      "name": "Medicare Offices",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 5,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

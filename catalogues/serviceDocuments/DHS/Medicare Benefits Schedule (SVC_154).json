@@ -1,0 +1,80 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_154",
+    "name": "Medicare Benefits Schedule",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Medicare Benefits Schedule (MBS) is a Department of Health publication that lists services that are subsidised by the Australian Government under Medicare. You can use MBS Online to check if a service is listed under Medicare.",
+    "infoUrl": "http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home",
+    "oldID": 23,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": false,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "THM_HTH",
+      "name": "Your health",
+      "desc": "We provide payments and services that can help when you, or someone you provide care for, use health care services or buy medicines.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/themes/medicare-and-your-health"
+    },
+    {
+      "dist": 2,
+      "id": "MP_MCA",
+      "name": "Medicare",
+      "desc": "Looking after the health of Australians.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/medicare"
+    },
+    {
+      "dist": 2,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "MCA_ONL",
+      "name": "Medicare Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "CHA_MCA",
+      "name": "Medicare Offices",
+      "desc": ""
+    },
+    {
+      "dist": 3,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 4,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

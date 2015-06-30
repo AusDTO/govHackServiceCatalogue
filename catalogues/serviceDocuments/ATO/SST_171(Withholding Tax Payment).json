@@ -1,0 +1,38 @@
+{
+  "documentType": "ServiceInformation",
+  "service": {
+    "type": "SST",
+    "id": "SST_171",
+    "name": "Withholding Tax Payment",
+    "acronym": "",
+    "description": "This service enables individual, non-individual entities and their representatives to make Withholding Tax Payment to ATO.",
+    "colourStyle": "",
+    "lineStyle": "",
+    "shapeStyle": "",
+    "hoverFieldStyle": "",
+    "secondary": false,
+    "lifeEvents": [],
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_022",
+      "name": "Payment Made To ATO",
+      "desc": "This service enables individual, non-individual entities and their representatives to make payments to ATO in relation to their taxation obligations."
+    },
+    {
+      "dist": 2,
+      "id": "CLS_PAC",
+      "name": "Payment & Accounting",
+      "desc": "The Payment cluster covers all services that facilitate the community to either make or receive payments to accurately settle their tax and superannuation obligations. This cluster also contains services to perform account maintenance such as credit transfers or remission of a penalty which when actioned, will adjust the customer's account to ensure it is reflecting an accurate balance to allow for either making or receiving payment. In this cluster compliance services help the community to comply through services such as payment arrangements."
+    },
+    {
+      "dist": 3,
+      "id": "ORG_ATO",
+      "name": "Australian Taxation Office",
+      "desc": ""
+    }
+  ],
+  "Subs": []
+}

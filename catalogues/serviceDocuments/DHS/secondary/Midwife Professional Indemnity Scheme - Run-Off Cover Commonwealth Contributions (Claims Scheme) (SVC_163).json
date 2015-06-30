@@ -1,0 +1,96 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_163",
+    "name": "Midwife Professional Indemnity Scheme - Run-Off Cover Commonwealth Contributions (Claims Scheme)",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "The Midwife Professional Indemnity Scheme - Run-Off Cover Commonwealth Contributions (Claims Scheme) (ROC) is designed to assist an eligible Insurer in respect of claims made against midwives who are retired; were not engaged in private practice during the preceding 3 years; have a permanent disability; are deceased; are on maternity leave, or have permanently left private midwifery practice in Australia. ROC Commonwealth contributions reimburse the Insurer 100% of an eligible claim. Under the ROC scheme eligible claims will be paid by the Australian Government.  A levy placed on total premium costs is payable by the Insurer annually.  Levies collected will fund midwife Run-off Cover claims. ",
+    "infoUrl": "",
+    "oldID": 32,
+    "colourStyle": null,
+    "lineStyle": null,
+    "shapeStyle": "ellipse",
+    "hoverFieldStyle": null,
+    "secondary": true,
+    "primaryAudience": null,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "SVC_196",
+      "name": "Midwife Professional Indemnity Scheme",
+      "desc": "Midwife Professional Indemnity Scheme provides financial assistance to eligible insurers who provide indemnity to eligible midwives.",
+      "infoUrl": "http://www.humanservices.gov.au/health-professionals/services/midwife-professional-indemnity-scheme/"
+    },
+    {
+      "dist": 2,
+      "id": "THM_HPR",
+      "name": "Health professionals",
+      "desc": "Helping health professionals, practice staff and pharmacy assistants do business with us.",
+      "infoUrl": "http://www.humanservices.gov.au/health-professionals/"
+    },
+    {
+      "dist": 3,
+      "id": "MP_MCA",
+      "name": "Medicare",
+      "desc": "Looking after the health of Australians.",
+      "infoUrl": "http://www.humanservices.gov.au/customer/dhs/medicare"
+    },
+    {
+      "dist": 3,
+      "id": "AUD_BUS",
+      "name": "Business",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 3,
+      "id": "AUD_IND",
+      "name": "Individuals",
+      "desc": "",
+      "infoUrl": ""
+    },
+    {
+      "dist": 4,
+      "id": "MCA_ONL",
+      "name": "Medicare Online Services",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "CHA_MCA",
+      "name": "Medicare Offices",
+      "desc": ""
+    },
+    {
+      "dist": 4,
+      "id": "ORG_DHS",
+      "name": "Human Services",
+      "desc": "We deliver social and health-related payments and services",
+      "infoUrl": "http://www.humanservices.gov.au/"
+    },
+    {
+      "dist": 5,
+      "id": "CHA_OFF",
+      "name": "Offices",
+      "desc": "All DHS Office Types"
+    }
+  ],
+  "subService": []
+}

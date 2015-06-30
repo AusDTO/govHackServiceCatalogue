@@ -1,0 +1,37 @@
+{
+  "documentType": "ServiceInformation",
+  "todo": [
+    null,
+    null
+  ],
+  "service": {
+    "type": "SVC",
+    "id": "SVC_003",
+    "name": "Keeping Baby Safe",
+    "acronym": null,
+    "tagline": null,
+    "dtoTags": [],
+    "description": "A guide to infant and nursery products with easy steps you can take to ensure your baby remains safe in your home.",
+    "topics": [],
+    "categories": [],
+    "lifeEvents": [],
+    "infoUrl": "http://www.accc.gov.au/about-us/tools-resources/keeping-baby-safe-app",
+    "primaryAudience": null,
+    "targetedAgeRange": null,
+    "primaryChannel": [
+      "Mobile"
+    ],
+    "secondary": false,
+    "serviceTypes": []
+  },
+  "Dimension": [
+    {
+      "dist": 1,
+      "id": "ORG_ACCC",
+      "name": "Australian Competition and Consumer Commission",
+      "desc": "",
+      "infoUrl": "http://www.accc.gov.au/"
+    }
+  ],
+  "subService": []
+}
