@@ -18,7 +18,7 @@ Each node is one several __node classes__, these classes are extended as needed 
 * Organisation
 * Service
 * Service Dimension (Abstract)
-* Component (Abtsract)
+* Component (Abstract)
 * Channel (Abstract)
 
 Each of these classes has a set of default attributes which are described in the attribute information. Definitions of an abstract class are completed through an organisation specific schema and can define further subclasses with additional attributes.
